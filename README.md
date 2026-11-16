@@ -73,6 +73,16 @@ These are **observed locations for the stated project builds**, not universal of
 
 The upstream projects may have their own licenses. Our notes are original documentation; **do not imply their authors endorse these modifications**. See [PUBLICATION.md](PUBLICATION.md) before uploading binaries, code or art.
 
+## Licensing
+
+**Copyright © 2026 Ken Chee — project owner and lead designer.** Our licensing grants cover only original material for which we hold the necessary rights:
+
+- **Original Python tools and recovered project scripts:** [MIT Licence](LICENSE), insofar as we have rights to license the particular code.
+- **Original research writing, guides and copyrightable data compilations:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DOCUMENTATION.md). Reuse requires credit to Ken Chee, a licence link and an indication of changes.
+- **Not covered:** Koei / Koei Tecmo's game, ROM bytes, sprites, audio, trademarks or other third-party works. Upstream code keeps its own licence; any future IPS/BPS patch or artwork requires a separate rights review.
+
+These licences do not imply endorsement by Koei / Koei Tecmo or the credited upstream editor authors.
+
 ## Repository status
 
 This is a **public documentation and research release candidate**, not a single-click full hack installer. Some experiments lack their original build script in the recovered source collection; exact offsets are stated only when supported by a surviving audit or code. The current Test54c ROM and its exact-parent IPS exist as **private project files**; neither is embedded in this GitHub-ready archive. We publish enough information to audit and extend the documented approaches while keeping protected game bytes out of public distribution.
