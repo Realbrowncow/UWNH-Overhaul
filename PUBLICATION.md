@@ -1,16 +1,16 @@
 # Publication and intellectual property checklist
 
-This GitHub-ready source tree includes only original explanatory text, derived design tables, and general read-only tools. It intentionally excludes any complete ROM, copied commercial graphics, game audio, save states, and temporary user screenshots.
+This public repository contains original research notes, derived design tables, general read-only tools, and a cumulative Test54c IPS patch package. It does **not** host the original or modified commercial ROM, separate game artwork or audio files, emulator states, or personal save games. An IPS contains changed binary bytes and is not automatically covered by the project licences.
 
-The **Test54c** parent/output SHA-256 values and text locations are documented, and [`tools/verify_test54c.py`](tools/verify_test54c.py) can check two privately obtained project builds. The three Test54a owner-submitted PNGs, the compressed game-native ship pictures, the new Test54b/54c ROMs, their IPS patches and the owner's Word screenshots are **not included** in this archive. The private package remains in the owner's Library.
+The [Test54c clean-US IPS](patches/test54c-clean-us/UWNH_Test54c_CUMULATIVE_from_Clean_US_ROM_2026-11-16.ips), [ZIP](releases/UWNH_Test54c_Clean_US_ROM_IPS_GitHub_2026-11-16.zip), [instructions](patches/test54c-clean-us/README_Test54c_Clean_US_IPS_2026-11-16.md), and [audit](patches/test54c-clean-us/UWNH_Test54c_Clean_US_IPS_Audit_2026-11-16.json) were added at Ken Chee's request after successful independent static replay against the exact 2 MiB original ROM. The builder and verifier are also available in the patch directory. The owner-submitted PNGs, compressed game-native pictures, modified `.smc` builds and owner's Word screenshots are **not** included. Separate project recovery archives remain private.
 
 Before publishing:
 
 1. Review each file, especially screenshots or artwork you may add later, for rights and identifying information.
 2. **Do not upload the private continuation ZIP**: it intentionally contains patched commercial game data for personal project recovery.
-3. Share exact-source IPS/BPS patches only after verifying their distribution rights; do not host the resulting `.smc` or `.sfc`.
+3. Audit exact-source IPS/BPS patch content and third-party distribution rights; publishing a patch does not confer rights to any underlying game material. Never host resulting `.smc` or `.sfc` images.
 4. **Licences now in place:** [MIT](LICENSE) applies to original project Python code where we hold the rights; [CC BY 4.0](LICENSE-DOCUMENTATION.md) covers original research writing and copyrightable data compilations. Credit **Ken Chee**. Third-party code and assets keep their own rights and licences; consult the README's Licensing section.
 5. Never represent these notes as an official release by Koei Tecmo, erich121, or Gilmok.
 6. Keep the status labels: a binary-level pass does not imply complete campaign testing.
 
-The project owner can decide whether to add more raw code, user-authored art, saved `.thm` / `.uwproj` map projects, or screenshots in a subsequent public update.
+**Patch caveat:** Technical reproducibility and the absence of a full ROM do not establish comprehensive copyright clearance for binary differences. MIT and CC BY 4.0 attach only to original project code and documentation as specified, not to Koei's work. The project owner can decide whether to add further user-authored assets and data in later updates.

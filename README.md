@@ -27,6 +27,16 @@ This repository describes research and original patch-making methods. **It does 
 
 **Game-tested** means a named screenshot/test confirmed that *particular* action. **Static-tested** means bytes, source tables, checksum or patch roundtrip checked. **Not yet tested** is not a failure. We deliberately retain those labels at feature level.
 
+## Download and apply Test54c (experimental)
+
+The **[Test54c clean-US cumulative IPS](patches/test54c-clean-us/UWNH_Test54c_CUMULATIVE_from_Clean_US_ROM_2026-11-16.ips)** is available alongside a **[ready-to-download ZIP package](releases/UWNH_Test54c_Clean_US_ROM_IPS_GitHub_2026-11-16.zip)** and the **[complete patching instructions](patches/test54c-clean-us/README_Test54c_Clean_US_IPS_2026-11-16.md)**. The ZIP includes the IPS, audit, builder and independent verifier. It does **not** contain a ROM.
+
+- **Base:** untouched, headerless 2 MiB US ROM, SHA-256 `64bc4707f422661a66618088887e2363a5f896ea683c58984fffd96dd21ab5f0`.
+- **Result:** 4 MiB Test54c, SHA-256 `924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01`.
+- **Evidence:** exact IPS replay **PASS**; full gameplay regression **pending**. The `~Ernst~` biography heading remains unresolved.
+
+Use an IPS patcher with RLE and size-expansion support, and verify both hashes. Obtain your own lawful retail copy. The project licences cover **original** materials, not the original game or any third-party content that a patch might encode. This is an unofficial experimental release.
+
 ## Read the guides
 
 1. [How the ROM is structured](docs/rom-address-map.md) — headerless PC offsets, SNES address concepts and master data map.
@@ -79,10 +89,10 @@ The upstream projects may have their own licenses. Our notes are original docume
 
 - **Original Python tools and recovered project scripts:** [MIT Licence](LICENSE), insofar as we have rights to license the particular code.
 - **Original research writing, guides and copyrightable data compilations:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DOCUMENTATION.md). Reuse requires credit to Ken Chee, a licence link and an indication of changes.
-- **Not covered:** Koei / Koei Tecmo's game, ROM bytes, sprites, audio, trademarks or other third-party works. Upstream code keeps its own licence; any future IPS/BPS patch or artwork requires a separate rights review.
+- **Not covered:** Koei / Koei Tecmo's game, ROM bytes, sprites, audio, trademarks or other third-party works. Upstream code keeps its own licence; IPS/BPS patch bytes and artwork have separate third-party rights considerations.
 
 These licences do not imply endorsement by Koei / Koei Tecmo or the credited upstream editor authors.
 
 ## Repository status
 
-This is a **public documentation and research release candidate**, not a single-click full hack installer. Some experiments lack their original build script in the recovered source collection; exact offsets are stated only when supported by a surviving audit or code. The current Test54c ROM and its exact-parent IPS exist as **private project files**; neither is embedded in this GitHub-ready archive. We publish enough information to audit and extend the documented approaches while keeping protected game bytes out of public distribution.
+This is a **public documentation and research release candidate**, not a single-click full hack installer. Some experiments lack their original build script in the recovered source collection; exact offsets are stated only when supported by a surviving audit or code. The **clean-US cumulative Test54c IPS and ZIP package are available publicly** using the links above; the original and modified ROM images remain private and are not included. The published patch has a byte-identical static replay PASS, not a full gameplay certification. Documentation and independently usable tools remain available for further review.

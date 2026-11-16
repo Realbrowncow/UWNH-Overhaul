@@ -1,0 +1,24 @@
+{
+  "status": "STATIC PASS; clean 2MiB US original to exact 4MiB Test54c",
+  "source_file": "Uncharted Waters - New Horizons (U).smc",
+  "source_bytes": 2097152,
+  "source_sha256": "64bc4707f422661a66618088887e2363a5f896ea683c58984fffd96dd21ab5f0",
+  "target_file": "UWNH_Test54c_Rimbo_Biography_IntroText_EXPERIMENTAL_2026-11-16.smc",
+  "target_bytes": 4194304,
+  "target_sha256": "924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01",
+  "rom_expansion": "2MiB to 4MiB; explicit upper-half writes and IPS EOF final-size tag",
+  "patch_file": "UWNH_Test54c_CUMULATIVE_from_Clean_US_ROM_2026-11-16.ips",
+  "patch_bytes": 88565,
+  "patch_sha256": "b92debc2c64dc10a0570f6da9eca182565b35e13de2caeef125bf4b3eb149286",
+  "first_2MiB_changed_bytes": 28420,
+  "upper_2MiB_non_ff_bytes": 29874,
+  "record_stats": {
+    "raw_records": 4901,
+    "raw_bytes": 57153,
+    "rle_records": 862,
+    "rle_expanded_bytes": 2068419
+  },
+  "ips_replay_exact": true,
+  "gameplay_status": "Encoding verified statically; full Test54c gameplay regression still pending",
+  "known_issue": "Rimbo biography screen heading ~Ernst~ remains unresolved"
+}
