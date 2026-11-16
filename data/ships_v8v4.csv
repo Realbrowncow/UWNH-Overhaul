@@ -1,0 +1,26 @@
+slot,ship,class,propulsion,port_or_yard,industry,capacity,crew_min,crew_max,guns_max,tack,sailing,hull,price_beech_base_ducats
+0,Sambuk,Medium,Sail,G,400,750,35,110,20,66,69,50,235000
+1,Hansa Cog,Medium,Sail,C,300,470,25,80,10,58,66,50,157250
+2,Dhow,Small,Sail,"G, H, I",300,190,20,50,10,72,74,40,27800
+3,Buss,Large,Sail,Danzig only,900,1100,200,450,100,65,70,85,767500
+4,Tallette,Small,Sail,"A, D, E",250,230,20,50,10,58,66,40,30700
+5,Caravela Latina,Small,Sail,"A, B, C, D, E, F, G",200,120,10,40,20,90,75,30,21750
+6,Caravela Redonda,Small,Sail,"B, C, K",250,260,20,60,20,69,74,40,35150
+7,Brigantine,Medium,Sail,B,400,500,100,160,70,88,93,55,212750
+8,Nao,Medium,Sail,"A, D, E",500,550,30,90,20,65,71,50,184000
+9,Carrack,Medium,Sail,A,600,660,35,100,30,52,64,55,210250
+10,Galleon,Medium,Sail,A,800,800,120,200,70,68,74,60,283000
+11,Jong,Large,Sail,Makassar only (corrected from Jepara),950,1300,220,480,120,62,66,85,884000
+12,Lancaran,Medium,Sail,"H, I",600,850,140,220,50,73,73,60,296500
+13,Sloop,Small,Sail,"E, K",350,340,60,100,30,90,96,40,47800
+14,Frigate,Medium,Sail,B,700,700,140,180,50,95,95,60,270000
+15,Barge,Large,Sail,Valencia only,1000,1400,250,460,140,62,70,85,961000
+16,Full-rigged Ship,Large,Sail,Bristol only,1000,1200,250,450,150,64,72,85,868000
+17,Junk,Large,Sail,Ningbo only,900,1350,60,200,30,48,61,70,774500
+18,Light Galley,Small,Oar,"E, F, K",300,300,60,110,40,90,85,40,43750
+19,Xebec,Large,Oar,"Sinop, Suez only",900,1200,255,500,110,70,73,80,854000
+20,Venetian Galeass,Large,Oar,Venice only,1000,1250,255,500,110,61,60,80,868000
+21,La Reale,Medium,Oar,"E, F",600,860,160,270,70,85,82,60,314250
+22,Tekkousen,Large,Oar,"Sakai, Poseidonis",1000,1300,255,500,130,55,50,90,895000
+23,Atakabune,Medium,Oar,"J, K",600,950,160,300,60,75,68,70,328250
+24,Kansen,Small,Oar,"J, K",350,400,80,120,40,95,75,50,54500

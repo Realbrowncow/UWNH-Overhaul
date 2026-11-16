@@ -1,0 +1,65 @@
+fleet_id,captain_original,captain_in_current_ROM,nation,role,design_tier,ship_count,native_generator_pc,v4_choice_1,v4_choice_2,v4_choice_3,v4_starting_distribution,note
+1,Simon Sekeira,Simon Sekeira,Portugal,Merchant,0–499,7,0x09EC4D,Carrack,Nao,Tallette,Carrack ×3; Nao ×2; Tallette ×2,ROM initial fleet + native future-generation choices updated
+2,Louis Costa,Louis Costa,Portugal,Merchant,0–499,7,0x09EC4D,Carrack,Nao,Tallette,Carrack ×3; Nao ×2; Tallette ×2,ROM initial fleet + native future-generation choices updated
+3,Lorenzo Peron,Lorenzo Peron,Portugal,Merchant,500–999,6,0x09EC4F,Carrack,Nao,Nao,Carrack ×2; Nao ×4,ROM initial fleet + native future-generation choices updated
+4,Ropao Feleira,Ropao Feleira,Portugal,Merchant,1000+,6,0x09EC51,Carrack,Carrack,Nao,Carrack ×4; Nao ×2,ROM initial fleet + native future-generation choices updated
+5,Raphael Selran,Raphael Selran,Portugal,Main battle,1000+,7,0x09EC7B,Galleon,Galleon,Carrack,Galleon ×5; Carrack ×2,ROM initial fleet + native future-generation choices updated
+6,Diego Souson,Diego Souson,Portugal,Main battle,500–999,6,0x09EC79,Galleon,Carrack,Nao,Galleon ×2; Carrack ×2; Nao ×2,ROM initial fleet + native future-generation choices updated
+7,Alfonse Andlade,Alfonse Andlade,Portugal,Other battle,0–499,7,0x09ECA1,Galleon,Carrack,Nao,Galleon ×3; Carrack ×2; Nao ×2,ROM initial fleet + native future-generation choices updated
+8,Garcia Alvarao,Garcia Alvarao,Portugal,Other battle,500–999,6,0x09ECA3,Galleon,Carrack,Carrack,Galleon ×2; Carrack ×4,ROM initial fleet + native future-generation choices updated
+9,Duarte Silveira,Duarte Silveira,Portugal,Other battle,1000+,6,0x09ECA5,Galleon,Galleon,Carrack,Galleon ×4; Carrack ×2,ROM initial fleet + native future-generation choices updated
+11,Esteban Ortega,Esteban Ortega,Spain,Merchant,0–499,7,0x09EC53,Carrack,Nao,Tallette,Carrack ×3; Nao ×2; Tallette ×2,ROM initial fleet + native future-generation choices updated
+12,Carlos Aragon,Carlos Aragon,Spain,Merchant,0–499,7,0x09EC53,Carrack,Nao,Tallette,Carrack ×3; Nao ×2; Tallette ×2,ROM initial fleet + native future-generation choices updated
+13,Ricardo Zapata,Ricardo Zapata,Spain,Merchant,500–999,6,0x09EC55,Carrack,Nao,Nao,Carrack ×2; Nao ×4,ROM initial fleet + native future-generation choices updated
+14,Juan Santana,Juan Santana,Spain,Merchant,1000+,6,0x09EC57,Carrack,Carrack,Nao,Carrack ×4; Nao ×2,ROM initial fleet + native future-generation choices updated
+15,Tonio Burciaga,Tonio Burciaga,Spain,Main battle,1000+,7,0x09EC81,Galleon,Galleon,Carrack,Galleon ×5; Carrack ×2,ROM initial fleet + native future-generation choices updated
+16,Hugo Montoya,Hugo Montoya,Spain,Main battle,500–999,6,0x09EC7F,Galleon,Carrack,Nao,Galleon ×2; Carrack ×2; Nao ×2,ROM initial fleet + native future-generation choices updated
+17,Xavier Navarro,Xavier Navarro,Spain,Other battle,0–499,7,0x09ECA7,Galleon,Carrack,Nao,Galleon ×3; Carrack ×2; Nao ×2,ROM initial fleet + native future-generation choices updated
+18,Bernal Loyola,Bernal Loyola,Spain,Other battle,500–999,6,0x09ECA9,Galleon,Carrack,Carrack,Galleon ×2; Carrack ×4,ROM initial fleet + native future-generation choices updated
+19,Hernan Chavez,Hernan Chavez,Spain,Other battle,1000+,6,0x09ECAB,Galleon,Galleon,Carrack,Galleon ×4; Carrack ×2,ROM initial fleet + native future-generation choices updated
+21,Yazid Shabbaz,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,7,0x09EC59,Nao,Nao,Light Galley,Nao ×5; Light Galley ×2,ROM initial fleet + native future-generation choices updated
+22,Malik Yasale,Malik Yasale,Ottoman / Turkey,Merchant,0–499,7,0x09EC59,Nao,Nao,Light Galley,Nao ×5; Light Galley ×2,ROM initial fleet + native future-generation choices updated
+23,Palah Abdul,Palah Abdul,Ottoman / Turkey,Merchant,500–999,6,0x09EC5B,La Reale,Nao,Light Galley,La Reale ×2; Nao ×2; Light Galley ×2,ROM initial fleet + native future-generation choices updated
+24,Marwan Hazan,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,6,0x09EC5D,La Reale,Nao,Nao,La Reale ×2; Nao ×4,ROM initial fleet + native future-generation choices updated
+25,Rashid Jabbar,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,7,0x09EC87,La Reale,La Reale,Nao,La Reale ×5; Nao ×2,ROM initial fleet + native future-generation choices updated
+26,Walid Kemal,Walid Kemal,Ottoman / Turkey,Main battle,500–999,6,0x09EC85,La Reale,Nao,Light Galley,La Reale ×2; Nao ×2; Light Galley ×2,ROM initial fleet + native future-generation choices updated
+27,Afmed Muhiddin,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,7,0x09ECAD,La Reale,Light Galley,Light Galley,La Reale ×3; Light Galley ×4,ROM initial fleet + native future-generation choices updated
+28,Sallah Iskal,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,6,0x09ECAF,La Reale,Nao,Light Galley,La Reale ×2; Nao ×2; Light Galley ×2,ROM initial fleet + native future-generation choices updated
+29,Siddarth Kebin,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,6,0x09ECB1,La Reale,La Reale,Nao,La Reale ×4; Nao ×2,ROM initial fleet + native future-generation choices updated
+31,Joseph Eastman,Joseph Eastman,England,Merchant,0–499,7,0x09EC5F,Brigantine,Hansa Cog,Caravela Redonda,Brigantine ×3; Hansa Cog ×2; Caravela Redonda ×2,ROM initial fleet + native future-generation choices updated
+32,Thomas Grisham,Thomas Grisham,England,Merchant,0–499,7,0x09EC5F,Brigantine,Hansa Cog,Caravela Redonda,Brigantine ×3; Hansa Cog ×2; Caravela Redonda ×2,ROM initial fleet + native future-generation choices updated
+33,Colin Lowe,Colin Lowe,England,Merchant,500–999,6,0x09EC61,Brigantine,Hansa Cog,Hansa Cog,Brigantine ×2; Hansa Cog ×4,ROM initial fleet + native future-generation choices updated
+34,Edmund Harvey,Edmund Harvey,England,Merchant,1000+,6,0x09EC63,Frigate,Carrack,Hansa Cog,Frigate ×2; Carrack ×2; Hansa Cog ×2,ROM initial fleet + native future-generation choices updated
+35,Robert Wilde,Robert Wilde,England,Main battle,1000+,7,0x09EC8D,Frigate,Frigate,Brigantine,Frigate ×5; Brigantine ×2,ROM initial fleet + native future-generation choices updated
+36,Victor Russell,Victor Russell,England,Main battle,500–999,6,0x09EC8B,Frigate,Brigantine,Brigantine,Frigate ×2; Brigantine ×4,ROM initial fleet + native future-generation choices updated
+37,William Clive,William Clive,England,Other battle,0–499,7,0x09ECB3,Frigate,Brigantine,Caravela Redonda,Frigate ×3; Brigantine ×2; Caravela Redonda ×2,ROM initial fleet + native future-generation choices updated
+38,Walter Laurence,Walter Laurence,England,Other battle,500–999,6,0x09ECB5,Frigate,Brigantine,Brigantine,Frigate ×2; Brigantine ×4,ROM initial fleet + native future-generation choices updated
+39,Charles Grafton,Charles Grafton,England,Other battle,1000+,6,0x09ECB7,Frigate,Frigate,Brigantine,Frigate ×4; Brigantine ×2,ROM initial fleet + native future-generation choices updated
+41,Guido Benzo,Guido Benzo,Italy,Merchant,0–499,7,0x09EC65,Sloop,Nao,Tallette,Sloop ×3; Nao ×2; Tallette ×2,ROM initial fleet + native future-generation choices updated
+42,Jossepi Arleo,Jossepi Arleo,Italy,Merchant,0–499,7,0x09EC65,Sloop,Nao,Tallette,Sloop ×3; Nao ×2; Tallette ×2,ROM initial fleet + native future-generation choices updated
+43,Santino Amadio,Santino Amadio,Italy,Merchant,500–999,6,0x09EC67,Sloop,Carrack,Nao,Sloop ×2; Carrack ×2; Nao ×2,ROM initial fleet + native future-generation choices updated
+44,Giovanni Aldente,Giovanni Aldente,Italy,Merchant,1000+,6,0x09EC69,La Reale,Carrack,Nao,La Reale ×2; Carrack ×2; Nao ×2,ROM initial fleet + native future-generation choices updated
+45,Andrea Glimani,Andrea Glimani,Italy,Main battle,1000+,7,0x09EC93,La Reale,La Reale,Sloop,La Reale ×5; Sloop ×2,ROM initial fleet + native future-generation choices updated
+46,Gabriel Canolli,Gabriel Canolli,Italy,Main battle,500–999,6,0x09EC91,La Reale,Sloop,Sloop,La Reale ×2; Sloop ×4,ROM initial fleet + native future-generation choices updated
+47,Luigi Mangia,Luigi Mangia,Italy,Other battle,0–499,7,0x09ECB9,La Reale,Sloop,Light Galley,La Reale ×3; Sloop ×2; Light Galley ×2,ROM initial fleet + native future-generation choices updated
+48,Vittorio Doria,Vittorio Doria,Italy,Other battle,500–999,6,0x09ECBB,La Reale,Sloop,Sloop,La Reale ×2; Sloop ×4,ROM initial fleet + native future-generation choices updated
+49,Columbo Vacca,Columbo Vacca,Italy,Other battle,1000+,6,0x09ECBD,La Reale,La Reale,Sloop,La Reale ×4; Sloop ×2,ROM initial fleet + native future-generation choices updated
+51,Hugo Oljack,Jaka Dilah,Demak,Merchant,0–499,7,0x09EC6B,Sambuk,Sambuk,Dhow,Sambuk ×5; Dhow ×2,ROM initial fleet + native future-generation choices updated
+52,Marion Glotis,Bima Santosa,Demak,Merchant,0–499,7,0x09EC6B,Sambuk,Sambuk,Dhow,Sambuk ×5; Dhow ×2,ROM initial fleet + native future-generation choices updated
+53,Jules Huigen,Wana Salam,Demak,Merchant,500–999,6,0x09EC6D,Sambuk,Sambuk,Sambuk,Sambuk ×6,ROM initial fleet + native future-generation choices updated
+54,Maurice Laiden,Retna,Demak,Merchant,1000+,6,0x09EC6F,Lancaran,Sambuk,Sambuk,Lancaran ×2; Sambuk ×4,ROM initial fleet + native future-generation choices updated
+55,Leonie Van Fuyk,Usman,Demak,Main battle,1000+,7,0x09EC99,Lancaran,Lancaran,Lancaran,Lancaran ×7,ROM initial fleet + native future-generation choices updated
+56,Vilem Hein,Tagaril,Demak,Main battle,500–999,6,0x09EC97,Lancaran,Lancaran,Sambuk,Lancaran ×4; Sambuk ×2,ROM initial fleet + native future-generation choices updated
+57,Julian Felmer,Jaka Tinkir,Demak,Other battle,0–499,7,0x09ECBF,Lancaran,Sambuk,Sambuk,Lancaran ×3; Sambuk ×4,ROM initial fleet + native future-generation choices updated
+58,Gordon Hendrick,Kingkin,Demak,Other battle,500–999,6,0x09ECC1,Lancaran,Lancaran,Sambuk,Lancaran ×4; Sambuk ×2,ROM initial fleet + native future-generation choices updated
+59,Jacques Broom,Jafar,Demak,Other battle,1000+,6,0x09ECC3,Lancaran,Lancaran,Lancaran,Lancaran ×6,ROM initial fleet + native future-generation choices updated
+60,Antonio Khan,Antonio Khan,Demak,Special slot (10),1000+,10,SPECIAL60 (independent),Lancaran,Lancaran,Sambuk,Lancaran ×7; Sambuk ×3,Special fleet 60 uses dedicated generation path; only its ten starting ships are changed
+61,Hamid Lal,Hamid Lal,Pirates / independents,Merchant,0–499,7,0x09EC71,La Reale,Brigantine,Sloop,La Reale ×3; Brigantine ×2; Sloop ×2,ROM initial fleet + native future-generation choices updated
+62,Pierre Lugulan,Mary,Pirates / independents,Merchant,0–499,7,0x09EC71,La Reale,Brigantine,Sloop,La Reale ×3; Brigantine ×2; Sloop ×2,ROM initial fleet + native future-generation choices updated
+63,Louis Scott,Grace,Pirates / independents,Merchant,500–999,6,0x09EC73,La Reale,Frigate,Brigantine,La Reale ×2; Frigate ×2; Brigantine ×2,ROM initial fleet + native future-generation choices updated
+64,John Davis,Sayyida,Pirates / independents,Merchant,1000+,6,0x09EC75,La Reale,La Reale,Frigate,La Reale ×4; Frigate ×2,ROM initial fleet + native future-generation choices updated
+65,Khayr ad-Din,Khayr ad-Din,Pirates / independents,Main battle,1000+,7,0x09EC9F,La Reale,La Reale,Frigate,La Reale ×5; Frigate ×2,ROM initial fleet + native future-generation choices updated
+66,Idin Leis,Idin Leis,Pirates / independents,Main battle,500–999,6,0x09EC9D,La Reale,Frigate,Brigantine,La Reale ×2; Frigate ×2; Brigantine ×2,ROM initial fleet + native future-generation choices updated
+67,Mohommed Syarook,Mohommed Syarook,Pirates / independents,Other battle,0–499,7,0x09ECC5,La Reale,Brigantine,Sloop,La Reale ×3; Brigantine ×2; Sloop ×2,ROM initial fleet + native future-generation choices updated
+68,Ulgu Ali,Ulgu Ali,Pirates / independents,Other battle,500–999,6,0x09ECC7,La Reale,Frigate,Brigantine,La Reale ×2; Frigate ×2; Brigantine ×2,ROM initial fleet + native future-generation choices updated
+69,Jack Raccam,Eleanor,Pirates / independents,Other battle,1000+,6,0x09ECC9,La Reale,La Reale,Frigate,La Reale ×4; Frigate ×2,ROM initial fleet + native future-generation choices updated

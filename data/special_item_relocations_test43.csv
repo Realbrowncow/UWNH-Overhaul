@@ -1,0 +1,9 @@
+﻿item,item_id_hex,from_port_id,from_port,to_port_id,to_port,from_pc,to_pc,status
+Tax-Free Permit (P),23,17,Salonika,9,Goa,0x08DD14,0x08DBEC,STATIC PASS
+Tax-Free Permit (O),25,22,Tripoli,24,Azov,0x08DDCD,0x08DE17,STATIC PASS
+Tax-Free Permit (S),24,24,Azov,22,Tripoli,0x08DE17,0x08DDCD,STATIC PASS
+Tax-Free Permit (H),28,32,Antwerp,35,Hamburg,0x08DF3F,0x08DFAE,STATIC PASS
+Tax-Free Permit (E),26,39,Danzig,27,Bordeaux,0x08E042,0x08DE86,STATIC PASS
+Rune Blade,4A,52,Pernambuco,3,Poseidonis,0x08E223,0x08DB0E,STATIC PASS
+Crusader's Sword,4C,64,Timbuktu,77,Jepara,0x08E3DF,0x08E5C0,STATIC PASS
+Crusader's Armor,4B,10,Naples,75,Suez,0x08DC11,0x08E576,STATIC PASS

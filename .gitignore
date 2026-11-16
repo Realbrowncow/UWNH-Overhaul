@@ -1,0 +1,25 @@
+# Keep private commercial ROMs and emulator state out of research commits.
+*.smc
+*.sfc
+*.swc
+*.ips
+*.bps
+*.srm
+*.sav
+*.szst*
+*.zst*
+*.7z
+*.zip
+*.rar
+
+# Generated caches / local experiments.
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+scratch/
+local_roms/
+private/
+build/
+dist/

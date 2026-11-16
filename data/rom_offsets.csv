@@ -1,0 +1,31 @@
+address,kind,record,detail,evidence
+0x08CF53,PC,Port coordinate base,130 records x 22 bytes,Test21 handoff
+0x0AA1DE,PC,Sorted port coordinate index,130 records,Test21 handoff
+0x0AD170,PC,Port pointer lookup,,Test21 handoff
+0x0F3500,PC,Near port hash,255 entries,Test21 handoff
+0x08DA7F,PC,Port metadata,100 records x 37 bytes; +32 special; +33 geographic; +34 shipyard,Test21 Test43
+0x08CE27,PC,Ship model,25 records x 12 bytes,Test21 V8v4
+0x0AA522,PC,Used ship region candidates,11 x 8 candidates,Test21 handoff
+0x0A5B33,PC,Used general candidate draw,BYPASSED for region-only,Test21 handoff
+0x0B0929,PC,Cannon additional stat,,Early cannon audit
+0x0B0939,PC,Cannon range,,Early cannon audit
+0x0B0949,PC,Cannon power,,Early cannon audit
+0x0B0959,PC,Cannon price,,Early cannon audit
+0x240000,PC,Per-port resale and offer block,128 x port plus 2 x good or 119+offer slot,Test27 Test29
+0x02BCB7,PC,Fixed face pointer,3 bytes x face id; relative base 0x17CEE9,Test48
+0x0AAF00,PC,Fixed face palette,32 bytes x face id,Test48
+0x0881F3,PC,Navigator records,50 bytes x navigator id; face +26,Test50
+0x200F00,PC,Rimbo fixed face art,1083 byte literal packet,Test50
+0x201400,PC,Asmira fixed face art,1083 byte literal packet,Test50
+0x00A0BE,PC,Walking decompressor entry,hooked at Test52/53,Test53 source
+0x250100,PC,Rimbo walker hook,36 bytes,Test52 source
+0x250140,PC,Hans walker hook,45 bytes,Test53 source
+0x1BE5F2,PC,Original Ernst walker source,green hair native packet,Test52 source
+0x1BB35F,PC,African spear walker source,8 frames,Test52 source
+0x1C5CB3,PC,Original Hans walker source,8 frames,Test53 source
+0x1BCBD6,PC,Indian woman walker source,8 frames,Test53 source
+0x09B54A,PC,Scenario interpreter,42 decoded handlers,Test44 research
+0xFFDC,PC,SNES checksum complement + checksum,4 bytes,All patched ROMs
+$25:6004,SRAM,Stock schema marker,Test30 0x4D39,Test30
+$25:6020,SRAM,286 stock consumed counters,through $25:625B 572 bytes,Test30
+$7F:F824,WRAM,Virtual stock offset,cap = 3000 - offset,Test31C

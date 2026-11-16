@@ -1,0 +1,417 @@
+fleet_id,captain,nation,role,tier_design_assumption,ship_position,old_template_id,old_ship,v4_template_id,v4_ship,starting_crew,guns,hull,tacking,sailing,status_byte_hex,v4_rule_pc,note
+1,Simon Sekeira,Portugal,Merchant,0–499,1,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC4D,V4 three-choice cyclic initial projection
+1,Simon Sekeira,Portugal,Merchant,0–499,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC4D,V4 three-choice cyclic initial projection
+1,Simon Sekeira,Portugal,Merchant,0–499,3,44,Tallette,44,Tallette,20,10,40,58,66,15,0x09EC4D,V4 three-choice cyclic initial projection
+1,Simon Sekeira,Portugal,Merchant,0–499,4,48,Nao,49,Carrack,100,30,55,52,64,15,0x09EC4D,V4 three-choice cyclic initial projection
+1,Simon Sekeira,Portugal,Merchant,0–499,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC4D,V4 three-choice cyclic initial projection
+1,Simon Sekeira,Portugal,Merchant,0–499,6,44,Tallette,44,Tallette,20,10,40,58,66,16,0x09EC4D,V4 three-choice cyclic initial projection
+1,Simon Sekeira,Portugal,Merchant,0–499,7,48,Nao,49,Carrack,100,30,55,52,64,16,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,1,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,3,44,Tallette,44,Tallette,20,10,40,58,66,15,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,4,48,Nao,49,Carrack,100,30,55,52,64,15,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,6,44,Tallette,44,Tallette,20,10,40,58,66,16,0x09EC4D,V4 three-choice cyclic initial projection
+2,Louis Costa,Portugal,Merchant,0–499,7,48,Nao,49,Carrack,100,30,55,52,64,16,0x09EC4D,V4 three-choice cyclic initial projection
+3,Lorenzo Peron,Portugal,Merchant,500–999,1,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC4F,V4 three-choice cyclic initial projection
+3,Lorenzo Peron,Portugal,Merchant,500–999,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC4F,V4 three-choice cyclic initial projection
+3,Lorenzo Peron,Portugal,Merchant,500–999,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC4F,V4 three-choice cyclic initial projection
+3,Lorenzo Peron,Portugal,Merchant,500–999,4,49,Carrack,49,Carrack,100,30,55,52,64,15,0x09EC4F,V4 three-choice cyclic initial projection
+3,Lorenzo Peron,Portugal,Merchant,500–999,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC4F,V4 three-choice cyclic initial projection
+3,Lorenzo Peron,Portugal,Merchant,500–999,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC4F,V4 three-choice cyclic initial projection
+4,Ropao Feleira,Portugal,Merchant,1000+,1,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC51,V4 three-choice cyclic initial projection
+4,Ropao Feleira,Portugal,Merchant,1000+,2,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC51,V4 three-choice cyclic initial projection
+4,Ropao Feleira,Portugal,Merchant,1000+,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC51,V4 three-choice cyclic initial projection
+4,Ropao Feleira,Portugal,Merchant,1000+,4,49,Carrack,49,Carrack,100,30,55,52,64,15,0x09EC51,V4 three-choice cyclic initial projection
+4,Ropao Feleira,Portugal,Merchant,1000+,5,49,Carrack,49,Carrack,100,30,55,52,64,16,0x09EC51,V4 three-choice cyclic initial projection
+4,Ropao Feleira,Portugal,Merchant,1000+,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC51,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,1,50,Galleon,50,Galleon,180,70,60,68,74,12,0x09EC7B,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,2,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09EC7B,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,3,48,Nao,49,Carrack,100,30,55,52,64,13,0x09EC7B,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,4,50,Galleon,50,Galleon,180,70,60,68,74,13,0x09EC7B,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,5,49,Carrack,50,Galleon,180,70,60,68,74,14,0x09EC7B,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,6,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC7B,V4 three-choice cyclic initial projection
+5,Raphael Selran,Portugal,Main battle,1000+,7,50,Galleon,50,Galleon,180,70,60,68,74,54,0x09EC7B,V4 three-choice cyclic initial projection
+6,Diego Souson,Portugal,Main battle,500–999,1,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09EC79,V4 three-choice cyclic initial projection
+6,Diego Souson,Portugal,Main battle,500–999,2,48,Nao,49,Carrack,100,30,55,52,64,12,0x09EC79,V4 three-choice cyclic initial projection
+6,Diego Souson,Portugal,Main battle,500–999,3,48,Nao,48,Nao,80,20,50,65,71,13,0x09EC79,V4 three-choice cyclic initial projection
+6,Diego Souson,Portugal,Main battle,500–999,4,49,Carrack,50,Galleon,180,70,60,68,74,13,0x09EC79,V4 three-choice cyclic initial projection
+6,Diego Souson,Portugal,Main battle,500–999,5,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC79,V4 three-choice cyclic initial projection
+6,Diego Souson,Portugal,Main battle,500–999,6,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC79,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,1,48,Nao,50,Galleon,180,70,60,68,74,12,0x09ECA1,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,2,48,Nao,49,Carrack,100,30,55,52,64,12,0x09ECA1,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,3,44,Tallette,48,Nao,80,20,50,65,71,13,0x09ECA1,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,4,48,Nao,50,Galleon,180,70,60,68,74,13,0x09ECA1,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,5,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECA1,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,6,44,Tallette,48,Nao,80,20,50,65,71,14,0x09ECA1,V4 three-choice cyclic initial projection
+7,Alfonse Andlade,Portugal,Other battle,0–499,7,48,Nao,50,Galleon,180,70,60,68,74,14,0x09ECA1,V4 three-choice cyclic initial projection
+8,Garcia Alvarao,Portugal,Other battle,500–999,1,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09ECA3,V4 three-choice cyclic initial projection
+8,Garcia Alvarao,Portugal,Other battle,500–999,2,48,Nao,49,Carrack,100,30,55,52,64,12,0x09ECA3,V4 three-choice cyclic initial projection
+8,Garcia Alvarao,Portugal,Other battle,500–999,3,48,Nao,49,Carrack,100,30,55,52,64,13,0x09ECA3,V4 three-choice cyclic initial projection
+8,Garcia Alvarao,Portugal,Other battle,500–999,4,49,Carrack,50,Galleon,180,70,60,68,74,13,0x09ECA3,V4 three-choice cyclic initial projection
+8,Garcia Alvarao,Portugal,Other battle,500–999,5,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECA3,V4 three-choice cyclic initial projection
+8,Garcia Alvarao,Portugal,Other battle,500–999,6,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECA3,V4 three-choice cyclic initial projection
+9,Duarte Silveira,Portugal,Other battle,1000+,1,50,Galleon,50,Galleon,180,70,60,68,74,12,0x09ECA5,V4 three-choice cyclic initial projection
+9,Duarte Silveira,Portugal,Other battle,1000+,2,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09ECA5,V4 three-choice cyclic initial projection
+9,Duarte Silveira,Portugal,Other battle,1000+,3,48,Nao,49,Carrack,100,30,55,52,64,13,0x09ECA5,V4 three-choice cyclic initial projection
+9,Duarte Silveira,Portugal,Other battle,1000+,4,50,Galleon,50,Galleon,180,70,60,68,74,13,0x09ECA5,V4 three-choice cyclic initial projection
+9,Duarte Silveira,Portugal,Other battle,1000+,5,49,Carrack,50,Galleon,180,70,60,68,74,14,0x09ECA5,V4 three-choice cyclic initial projection
+9,Duarte Silveira,Portugal,Other battle,1000+,6,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECA5,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,1,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC53,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC53,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,3,44,Tallette,44,Tallette,20,10,40,58,66,15,0x09EC53,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,4,48,Nao,49,Carrack,100,30,55,52,64,15,0x09EC53,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC53,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,6,44,Tallette,44,Tallette,20,10,40,58,66,16,0x09EC53,V4 three-choice cyclic initial projection
+11,Esteban Ortega,Spain,Merchant,0–499,7,48,Nao,49,Carrack,100,30,55,52,64,16,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,1,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,3,44,Tallette,44,Tallette,20,10,40,58,66,15,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,4,48,Nao,49,Carrack,100,30,55,52,64,15,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,6,44,Tallette,44,Tallette,20,10,40,58,66,16,0x09EC53,V4 three-choice cyclic initial projection
+12,Carlos Aragon,Spain,Merchant,0–499,7,48,Nao,49,Carrack,100,30,55,52,64,16,0x09EC53,V4 three-choice cyclic initial projection
+13,Ricardo Zapata,Spain,Merchant,500–999,1,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC55,V4 three-choice cyclic initial projection
+13,Ricardo Zapata,Spain,Merchant,500–999,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC55,V4 three-choice cyclic initial projection
+13,Ricardo Zapata,Spain,Merchant,500–999,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC55,V4 three-choice cyclic initial projection
+13,Ricardo Zapata,Spain,Merchant,500–999,4,49,Carrack,49,Carrack,100,30,55,52,64,15,0x09EC55,V4 three-choice cyclic initial projection
+13,Ricardo Zapata,Spain,Merchant,500–999,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC55,V4 three-choice cyclic initial projection
+13,Ricardo Zapata,Spain,Merchant,500–999,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC55,V4 three-choice cyclic initial projection
+14,Juan Santana,Spain,Merchant,1000+,1,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC57,V4 three-choice cyclic initial projection
+14,Juan Santana,Spain,Merchant,1000+,2,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC57,V4 three-choice cyclic initial projection
+14,Juan Santana,Spain,Merchant,1000+,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC57,V4 three-choice cyclic initial projection
+14,Juan Santana,Spain,Merchant,1000+,4,49,Carrack,49,Carrack,100,30,55,52,64,15,0x09EC57,V4 three-choice cyclic initial projection
+14,Juan Santana,Spain,Merchant,1000+,5,49,Carrack,49,Carrack,100,30,55,52,64,16,0x09EC57,V4 three-choice cyclic initial projection
+14,Juan Santana,Spain,Merchant,1000+,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC57,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,1,50,Galleon,50,Galleon,180,70,60,68,74,12,0x09EC81,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,2,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09EC81,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,3,48,Nao,49,Carrack,100,30,55,52,64,12,0x09EC81,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,4,50,Galleon,50,Galleon,180,70,60,68,74,12,0x09EC81,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,5,49,Carrack,50,Galleon,180,70,60,68,74,13,0x09EC81,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,6,48,Nao,49,Carrack,100,30,55,52,64,14,0x09EC81,V4 three-choice cyclic initial projection
+15,Tonio Burciaga,Spain,Main battle,1000+,7,50,Galleon,50,Galleon,180,70,60,68,74,14,0x09EC81,V4 three-choice cyclic initial projection
+16,Hugo Montoya,Spain,Main battle,500–999,1,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09EC7F,V4 three-choice cyclic initial projection
+16,Hugo Montoya,Spain,Main battle,500–999,2,48,Nao,49,Carrack,100,30,55,52,64,12,0x09EC7F,V4 three-choice cyclic initial projection
+16,Hugo Montoya,Spain,Main battle,500–999,3,48,Nao,48,Nao,80,20,50,65,71,12,0x09EC7F,V4 three-choice cyclic initial projection
+16,Hugo Montoya,Spain,Main battle,500–999,4,49,Carrack,50,Galleon,180,70,60,68,74,13,0x09EC7F,V4 three-choice cyclic initial projection
+16,Hugo Montoya,Spain,Main battle,500–999,5,48,Nao,49,Carrack,100,30,55,52,64,13,0x09EC7F,V4 three-choice cyclic initial projection
+16,Hugo Montoya,Spain,Main battle,500–999,6,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC7F,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,1,48,Nao,50,Galleon,180,70,60,68,74,12,0x09ECA7,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,2,48,Nao,49,Carrack,100,30,55,52,64,13,0x09ECA7,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,3,44,Tallette,48,Nao,80,20,50,65,71,13,0x09ECA7,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,4,48,Nao,50,Galleon,180,70,60,68,74,13,0x09ECA7,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,5,48,Nao,49,Carrack,100,30,55,52,64,12,0x09ECA7,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,6,44,Tallette,48,Nao,80,20,50,65,71,13,0x09ECA7,V4 three-choice cyclic initial projection
+17,Xavier Navarro,Spain,Other battle,0–499,7,48,Nao,50,Galleon,180,70,60,68,74,14,0x09ECA7,V4 three-choice cyclic initial projection
+18,Bernal Loyola,Spain,Other battle,500–999,1,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09ECA9,V4 three-choice cyclic initial projection
+18,Bernal Loyola,Spain,Other battle,500–999,2,48,Nao,49,Carrack,100,30,55,52,64,12,0x09ECA9,V4 three-choice cyclic initial projection
+18,Bernal Loyola,Spain,Other battle,500–999,3,48,Nao,49,Carrack,100,30,55,52,64,13,0x09ECA9,V4 three-choice cyclic initial projection
+18,Bernal Loyola,Spain,Other battle,500–999,4,49,Carrack,50,Galleon,180,70,60,68,74,13,0x09ECA9,V4 three-choice cyclic initial projection
+18,Bernal Loyola,Spain,Other battle,500–999,5,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECA9,V4 three-choice cyclic initial projection
+18,Bernal Loyola,Spain,Other battle,500–999,6,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECA9,V4 three-choice cyclic initial projection
+19,Hernan Chavez,Spain,Other battle,1000+,1,50,Galleon,50,Galleon,180,70,60,68,74,12,0x09ECAB,V4 three-choice cyclic initial projection
+19,Hernan Chavez,Spain,Other battle,1000+,2,49,Carrack,50,Galleon,180,70,60,68,74,12,0x09ECAB,V4 three-choice cyclic initial projection
+19,Hernan Chavez,Spain,Other battle,1000+,3,48,Nao,49,Carrack,100,30,55,52,64,13,0x09ECAB,V4 three-choice cyclic initial projection
+19,Hernan Chavez,Spain,Other battle,1000+,4,50,Galleon,50,Galleon,180,70,60,68,74,13,0x09ECAB,V4 three-choice cyclic initial projection
+19,Hernan Chavez,Spain,Other battle,1000+,5,49,Carrack,50,Galleon,180,70,60,68,74,14,0x09ECAB,V4 three-choice cyclic initial projection
+19,Hernan Chavez,Spain,Other battle,1000+,6,48,Nao,49,Carrack,100,30,55,52,64,14,0x09ECAB,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,1,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC59,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC59,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,3,58,Light Galley,58,Light Galley,60,10,40,90,85,15,0x09EC59,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,4,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC59,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC59,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,6,58,Light Galley,58,Light Galley,60,10,40,90,85,16,0x09EC59,V4 three-choice cyclic initial projection
+21,Yazid Shabbaz,Ottoman / Turkey,Merchant,0–499,7,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,1,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,3,58,Light Galley,58,Light Galley,60,10,40,90,85,15,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,4,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,6,58,Light Galley,58,Light Galley,60,10,40,90,85,16,0x09EC59,V4 three-choice cyclic initial projection
+22,Malik Yasale,Ottoman / Turkey,Merchant,0–499,7,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC59,V4 three-choice cyclic initial projection
+23,Palah Abdul,Ottoman / Turkey,Merchant,500–999,1,61,La Reale,61,La Reale,160,30,60,85,82,14,0x09EC5B,V4 three-choice cyclic initial projection
+23,Palah Abdul,Ottoman / Turkey,Merchant,500–999,2,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC5B,V4 three-choice cyclic initial projection
+23,Palah Abdul,Ottoman / Turkey,Merchant,500–999,3,48,Nao,58,Light Galley,60,10,40,90,85,15,0x09EC5B,V4 three-choice cyclic initial projection
+23,Palah Abdul,Ottoman / Turkey,Merchant,500–999,4,61,La Reale,61,La Reale,160,30,60,85,82,15,0x09EC5B,V4 three-choice cyclic initial projection
+23,Palah Abdul,Ottoman / Turkey,Merchant,500–999,5,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC5B,V4 three-choice cyclic initial projection
+23,Palah Abdul,Ottoman / Turkey,Merchant,500–999,6,48,Nao,58,Light Galley,60,10,40,90,85,16,0x09EC5B,V4 three-choice cyclic initial projection
+24,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,14,0x09EC5D,V4 three-choice cyclic initial projection
+24,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,2,61,La Reale,48,Nao,80,20,50,65,71,14,0x09EC5D,V4 three-choice cyclic initial projection
+24,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC5D,V4 three-choice cyclic initial projection
+24,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,15,0x09EC5D,V4 three-choice cyclic initial projection
+24,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,5,61,La Reale,48,Nao,80,20,50,65,71,16,0x09EC5D,V4 three-choice cyclic initial projection
+24,Marwan Hazan,Ottoman / Turkey,Merchant,1000+,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC5D,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09EC87,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,2,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC87,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,3,48,Nao,48,Nao,80,20,50,65,71,13,0x09EC87,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC87,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,5,61,La Reale,61,La Reale,160,30,60,85,82,14,0x09EC87,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,6,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC87,V4 three-choice cyclic initial projection
+25,Rashid Jabbar,Ottoman / Turkey,Main battle,1000+,7,61,La Reale,61,La Reale,160,30,60,85,82,14,0x09EC87,V4 three-choice cyclic initial projection
+26,Walid Kemal,Ottoman / Turkey,Main battle,500–999,1,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC85,V4 three-choice cyclic initial projection
+26,Walid Kemal,Ottoman / Turkey,Main battle,500–999,2,48,Nao,48,Nao,80,20,50,65,71,12,0x09EC85,V4 three-choice cyclic initial projection
+26,Walid Kemal,Ottoman / Turkey,Main battle,500–999,3,58,Light Galley,58,Light Galley,60,10,40,90,85,13,0x09EC85,V4 three-choice cyclic initial projection
+26,Walid Kemal,Ottoman / Turkey,Main battle,500–999,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC85,V4 three-choice cyclic initial projection
+26,Walid Kemal,Ottoman / Turkey,Main battle,500–999,5,48,Nao,48,Nao,80,20,50,65,71,14,0x09EC85,V4 three-choice cyclic initial projection
+26,Walid Kemal,Ottoman / Turkey,Main battle,500–999,6,58,Light Galley,58,Light Galley,60,10,40,90,85,14,0x09EC85,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,1,48,Nao,61,La Reale,160,30,60,85,82,12,0x09ECAD,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,2,58,Light Galley,58,Light Galley,60,10,40,90,85,12,0x09ECAD,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,3,58,Light Galley,58,Light Galley,60,10,40,90,85,13,0x09ECAD,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,4,48,Nao,61,La Reale,160,30,60,85,82,13,0x09ECAD,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,5,58,Light Galley,58,Light Galley,60,10,40,90,85,14,0x09ECAD,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,6,58,Light Galley,58,Light Galley,60,10,40,90,85,14,0x09ECAD,V4 three-choice cyclic initial projection
+27,Afmed Muhiddin,Ottoman / Turkey,Other battle,0–499,7,48,Nao,61,La Reale,160,30,60,85,82,14,0x09ECAD,V4 three-choice cyclic initial projection
+28,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,1,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09ECAF,V4 three-choice cyclic initial projection
+28,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,2,48,Nao,48,Nao,80,20,50,65,71,12,0x09ECAF,V4 three-choice cyclic initial projection
+28,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,3,58,Light Galley,58,Light Galley,60,10,40,90,85,13,0x09ECAF,V4 three-choice cyclic initial projection
+28,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09ECAF,V4 three-choice cyclic initial projection
+28,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,5,48,Nao,48,Nao,80,20,50,65,71,14,0x09ECAF,V4 three-choice cyclic initial projection
+28,Sallah Iskal,Ottoman / Turkey,Other battle,500–999,6,58,Light Galley,58,Light Galley,60,10,40,90,85,14,0x09ECAF,V4 three-choice cyclic initial projection
+29,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09ECB1,V4 three-choice cyclic initial projection
+29,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,2,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09ECB1,V4 three-choice cyclic initial projection
+29,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,3,48,Nao,48,Nao,80,20,50,65,71,13,0x09ECB1,V4 three-choice cyclic initial projection
+29,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09ECB1,V4 three-choice cyclic initial projection
+29,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,5,61,La Reale,61,La Reale,160,30,60,85,82,14,0x09ECB1,V4 three-choice cyclic initial projection
+29,Siddarth Kebin,Ottoman / Turkey,Other battle,1000+,6,48,Nao,48,Nao,80,20,50,65,71,14,0x09ECB1,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,1,47,Brigantine,47,Brigantine,100,15,55,88,93,14,0x09EC5F,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,2,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,14,0x09EC5F,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,3,46,Caravela Redonda,46,Caravela Redonda,30,10,40,69,74,15,0x09EC5F,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,4,47,Brigantine,47,Brigantine,100,15,55,88,93,15,0x09EC5F,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,5,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,16,0x09EC5F,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,6,46,Caravela Redonda,46,Caravela Redonda,30,10,40,69,74,16,0x09EC5F,V4 three-choice cyclic initial projection
+31,Joseph Eastman,England,Merchant,0–499,7,47,Brigantine,47,Brigantine,100,15,55,88,93,16,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,1,47,Brigantine,47,Brigantine,100,15,55,88,93,14,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,2,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,15,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,3,46,Caravela Redonda,46,Caravela Redonda,30,10,40,69,74,15,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,4,47,Brigantine,47,Brigantine,100,15,55,88,93,15,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,5,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,16,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,6,46,Caravela Redonda,46,Caravela Redonda,30,10,40,69,74,16,0x09EC5F,V4 three-choice cyclic initial projection
+32,Thomas Grisham,England,Merchant,0–499,7,47,Brigantine,47,Brigantine,100,15,55,88,93,16,0x09EC5F,V4 three-choice cyclic initial projection
+33,Colin Lowe,England,Merchant,500–999,1,48,Nao,47,Brigantine,100,15,55,88,93,15,0x09EC61,V4 three-choice cyclic initial projection
+33,Colin Lowe,England,Merchant,500–999,2,47,Brigantine,41,Hansa Cog,25,5,50,58,66,15,0x09EC61,V4 three-choice cyclic initial projection
+33,Colin Lowe,England,Merchant,500–999,3,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,16,0x09EC61,V4 three-choice cyclic initial projection
+33,Colin Lowe,England,Merchant,500–999,4,48,Nao,47,Brigantine,100,15,55,88,93,16,0x09EC61,V4 three-choice cyclic initial projection
+33,Colin Lowe,England,Merchant,500–999,5,47,Brigantine,41,Hansa Cog,25,5,50,58,66,16,0x09EC61,V4 three-choice cyclic initial projection
+33,Colin Lowe,England,Merchant,500–999,6,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,16,0x09EC61,V4 three-choice cyclic initial projection
+34,Edmund Harvey,England,Merchant,1000+,1,49,Carrack,54,Frigate,180,50,60,95,95,14,0x09EC63,V4 three-choice cyclic initial projection
+34,Edmund Harvey,England,Merchant,1000+,2,49,Carrack,49,Carrack,100,30,55,52,64,14,0x09EC63,V4 three-choice cyclic initial projection
+34,Edmund Harvey,England,Merchant,1000+,3,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,15,0x09EC63,V4 three-choice cyclic initial projection
+34,Edmund Harvey,England,Merchant,1000+,4,49,Carrack,54,Frigate,180,50,60,95,95,15,0x09EC63,V4 three-choice cyclic initial projection
+34,Edmund Harvey,England,Merchant,1000+,5,49,Carrack,49,Carrack,100,30,55,52,64,15,0x09EC63,V4 three-choice cyclic initial projection
+34,Edmund Harvey,England,Merchant,1000+,6,41,Hansa Cog,41,Hansa Cog,25,5,50,58,66,16,0x09EC63,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,1,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09EC8D,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,2,54,Frigate,54,Frigate,180,50,60,95,95,12,0x09EC8D,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,3,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09EC8D,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,4,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09EC8D,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,5,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09EC8D,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,6,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09EC8D,V4 three-choice cyclic initial projection
+35,Robert Wilde,England,Main battle,1000+,7,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09EC8D,V4 three-choice cyclic initial projection
+36,Victor Russell,England,Main battle,500–999,1,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09EC8B,V4 three-choice cyclic initial projection
+36,Victor Russell,England,Main battle,500–999,2,47,Brigantine,47,Brigantine,100,15,55,88,93,11,0x09EC8B,V4 three-choice cyclic initial projection
+36,Victor Russell,England,Main battle,500–999,3,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09EC8B,V4 three-choice cyclic initial projection
+36,Victor Russell,England,Main battle,500–999,4,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09EC8B,V4 three-choice cyclic initial projection
+36,Victor Russell,England,Main battle,500–999,5,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09EC8B,V4 three-choice cyclic initial projection
+36,Victor Russell,England,Main battle,500–999,6,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09EC8B,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,1,47,Brigantine,54,Frigate,180,50,60,95,95,11,0x09ECB3,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,2,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09ECB3,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,3,46,Caravela Redonda,46,Caravela Redonda,30,10,40,69,74,12,0x09ECB3,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,4,47,Brigantine,54,Frigate,180,50,60,95,95,13,0x09ECB3,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,5,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09ECB3,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,6,46,Caravela Redonda,46,Caravela Redonda,30,10,40,69,74,13,0x09ECB3,V4 three-choice cyclic initial projection
+37,William Clive,England,Other battle,0–499,7,47,Brigantine,54,Frigate,180,50,60,95,95,14,0x09ECB3,V4 three-choice cyclic initial projection
+38,Walter Laurence,England,Other battle,500–999,1,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09ECB5,V4 three-choice cyclic initial projection
+38,Walter Laurence,England,Other battle,500–999,2,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09ECB5,V4 three-choice cyclic initial projection
+38,Walter Laurence,England,Other battle,500–999,3,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09ECB5,V4 three-choice cyclic initial projection
+38,Walter Laurence,England,Other battle,500–999,4,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09ECB5,V4 three-choice cyclic initial projection
+38,Walter Laurence,England,Other battle,500–999,5,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09ECB5,V4 three-choice cyclic initial projection
+38,Walter Laurence,England,Other battle,500–999,6,47,Brigantine,47,Brigantine,100,15,55,88,93,14,0x09ECB5,V4 three-choice cyclic initial projection
+39,Charles Grafton,England,Other battle,1000+,1,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09ECB7,V4 three-choice cyclic initial projection
+39,Charles Grafton,England,Other battle,1000+,2,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09ECB7,V4 three-choice cyclic initial projection
+39,Charles Grafton,England,Other battle,1000+,3,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09ECB7,V4 three-choice cyclic initial projection
+39,Charles Grafton,England,Other battle,1000+,4,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09ECB7,V4 three-choice cyclic initial projection
+39,Charles Grafton,England,Other battle,1000+,5,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09ECB7,V4 three-choice cyclic initial projection
+39,Charles Grafton,England,Other battle,1000+,6,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09ECB7,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,1,53,Sloop,53,Sloop,60,15,40,90,96,14,0x09EC65,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,2,53,Sloop,48,Nao,80,20,50,65,71,15,0x09EC65,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,3,44,Tallette,44,Tallette,20,10,40,58,66,15,0x09EC65,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,4,53,Sloop,53,Sloop,60,15,40,90,96,16,0x09EC65,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,5,53,Sloop,48,Nao,80,20,50,65,71,16,0x09EC65,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,6,44,Tallette,44,Tallette,20,10,40,58,66,16,0x09EC65,V4 three-choice cyclic initial projection
+41,Guido Benzo,Italy,Merchant,0–499,7,53,Sloop,53,Sloop,60,15,40,90,96,16,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,1,53,Sloop,53,Sloop,60,15,40,90,96,14,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,2,53,Sloop,48,Nao,80,20,50,65,71,14,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,3,44,Tallette,44,Tallette,20,10,40,58,66,15,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,4,53,Sloop,53,Sloop,60,15,40,90,96,15,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,5,53,Sloop,48,Nao,80,20,50,65,71,16,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,6,44,Tallette,44,Tallette,20,10,40,58,66,16,0x09EC65,V4 three-choice cyclic initial projection
+42,Jossepi Arleo,Italy,Merchant,0–499,7,53,Sloop,53,Sloop,60,15,40,90,96,16,0x09EC65,V4 three-choice cyclic initial projection
+43,Santino Amadio,Italy,Merchant,500–999,1,49,Carrack,53,Sloop,60,15,40,90,96,14,0x09EC67,V4 three-choice cyclic initial projection
+43,Santino Amadio,Italy,Merchant,500–999,2,48,Nao,49,Carrack,100,30,55,52,64,15,0x09EC67,V4 three-choice cyclic initial projection
+43,Santino Amadio,Italy,Merchant,500–999,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC67,V4 three-choice cyclic initial projection
+43,Santino Amadio,Italy,Merchant,500–999,4,49,Carrack,53,Sloop,60,15,40,90,96,15,0x09EC67,V4 three-choice cyclic initial projection
+43,Santino Amadio,Italy,Merchant,500–999,5,48,Nao,49,Carrack,100,30,55,52,64,16,0x09EC67,V4 three-choice cyclic initial projection
+43,Santino Amadio,Italy,Merchant,500–999,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC67,V4 three-choice cyclic initial projection
+44,Giovanni Aldente,Italy,Merchant,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,14,0x09EC69,V4 three-choice cyclic initial projection
+44,Giovanni Aldente,Italy,Merchant,1000+,2,49,Carrack,49,Carrack,100,30,55,52,64,15,0x09EC69,V4 three-choice cyclic initial projection
+44,Giovanni Aldente,Italy,Merchant,1000+,3,48,Nao,48,Nao,80,20,50,65,71,15,0x09EC69,V4 three-choice cyclic initial projection
+44,Giovanni Aldente,Italy,Merchant,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,15,0x09EC69,V4 three-choice cyclic initial projection
+44,Giovanni Aldente,Italy,Merchant,1000+,5,49,Carrack,49,Carrack,100,30,55,52,64,16,0x09EC69,V4 three-choice cyclic initial projection
+44,Giovanni Aldente,Italy,Merchant,1000+,6,48,Nao,48,Nao,80,20,50,65,71,16,0x09EC69,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC93,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,2,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC93,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,3,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09EC93,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC93,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,5,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC93,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,6,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09EC93,V4 three-choice cyclic initial projection
+45,Andrea Glimani,Italy,Main battle,1000+,7,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC93,V4 three-choice cyclic initial projection
+46,Gabriel Canolli,Italy,Main battle,500–999,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09EC91,V4 three-choice cyclic initial projection
+46,Gabriel Canolli,Italy,Main battle,500–999,2,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09EC91,V4 three-choice cyclic initial projection
+46,Gabriel Canolli,Italy,Main battle,500–999,3,53,Sloop,53,Sloop,60,15,40,90,96,13,0x09EC91,V4 three-choice cyclic initial projection
+46,Gabriel Canolli,Italy,Main battle,500–999,4,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC91,V4 three-choice cyclic initial projection
+46,Gabriel Canolli,Italy,Main battle,500–999,5,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09EC91,V4 three-choice cyclic initial projection
+46,Gabriel Canolli,Italy,Main battle,500–999,6,53,Sloop,53,Sloop,60,15,40,90,96,13,0x09EC91,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,1,53,Sloop,61,La Reale,160,30,60,85,82,11,0x09ECB9,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,2,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09ECB9,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,3,58,Light Galley,58,Light Galley,60,10,40,90,85,13,0x09ECB9,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,4,53,Sloop,61,La Reale,160,30,60,85,82,13,0x09ECB9,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,5,53,Sloop,53,Sloop,60,15,40,90,96,13,0x09ECB9,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,6,58,Light Galley,58,Light Galley,60,10,40,90,85,12,0x09ECB9,V4 three-choice cyclic initial projection
+47,Luigi Mangia,Italy,Other battle,0–499,7,53,Sloop,61,La Reale,160,30,60,85,82,12,0x09ECB9,V4 three-choice cyclic initial projection
+48,Vittorio Doria,Italy,Other battle,500–999,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09ECBB,V4 three-choice cyclic initial projection
+48,Vittorio Doria,Italy,Other battle,500–999,2,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09ECBB,V4 three-choice cyclic initial projection
+48,Vittorio Doria,Italy,Other battle,500–999,3,53,Sloop,53,Sloop,60,15,40,90,96,13,0x09ECBB,V4 three-choice cyclic initial projection
+48,Vittorio Doria,Italy,Other battle,500–999,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09ECBB,V4 three-choice cyclic initial projection
+48,Vittorio Doria,Italy,Other battle,500–999,5,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09ECBB,V4 three-choice cyclic initial projection
+48,Vittorio Doria,Italy,Other battle,500–999,6,53,Sloop,53,Sloop,60,15,40,90,96,11,0x09ECBB,V4 three-choice cyclic initial projection
+49,Columbo Vacca,Italy,Other battle,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09ECBD,V4 three-choice cyclic initial projection
+49,Columbo Vacca,Italy,Other battle,1000+,2,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09ECBD,V4 three-choice cyclic initial projection
+49,Columbo Vacca,Italy,Other battle,1000+,3,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09ECBD,V4 three-choice cyclic initial projection
+49,Columbo Vacca,Italy,Other battle,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09ECBD,V4 three-choice cyclic initial projection
+49,Columbo Vacca,Italy,Other battle,1000+,5,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09ECBD,V4 three-choice cyclic initial projection
+49,Columbo Vacca,Italy,Other battle,1000+,6,53,Sloop,53,Sloop,60,15,40,90,96,13,0x09ECBD,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,1,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09EC6B,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,2,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09EC6B,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,3,46,Caravela Redonda,42,Dhow,20,5,40,72,74,15,0x09EC6B,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,4,41,Hansa Cog,40,Sambuk,35,5,50,66,69,15,0x09EC6B,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,5,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6B,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,6,46,Caravela Redonda,42,Dhow,20,5,40,72,74,16,0x09EC6B,V4 three-choice cyclic initial projection
+51,Jaka Dilah,Demak,Merchant,0–499,7,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,1,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,2,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,3,46,Caravela Redonda,42,Dhow,20,5,40,72,74,15,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,4,41,Hansa Cog,40,Sambuk,35,5,50,66,69,15,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,5,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,6,46,Caravela Redonda,42,Dhow,20,5,40,72,74,16,0x09EC6B,V4 three-choice cyclic initial projection
+52,Bima Santosa,Demak,Merchant,0–499,7,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6B,V4 three-choice cyclic initial projection
+53,Wana Salam,Demak,Merchant,500–999,1,48,Nao,40,Sambuk,35,5,50,66,69,14,0x09EC6D,V4 three-choice cyclic initial projection
+53,Wana Salam,Demak,Merchant,500–999,2,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09EC6D,V4 three-choice cyclic initial projection
+53,Wana Salam,Demak,Merchant,500–999,3,41,Hansa Cog,40,Sambuk,35,5,50,66,69,15,0x09EC6D,V4 three-choice cyclic initial projection
+53,Wana Salam,Demak,Merchant,500–999,4,48,Nao,40,Sambuk,35,5,50,66,69,15,0x09EC6D,V4 three-choice cyclic initial projection
+53,Wana Salam,Demak,Merchant,500–999,5,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6D,V4 three-choice cyclic initial projection
+53,Wana Salam,Demak,Merchant,500–999,6,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6D,V4 three-choice cyclic initial projection
+54,Retna,Demak,Merchant,1000+,1,49,Carrack,52,Lancaran,140,15,60,73,73,14,0x09EC6F,V4 three-choice cyclic initial projection
+54,Retna,Demak,Merchant,1000+,2,48,Nao,40,Sambuk,35,5,50,66,69,14,0x09EC6F,V4 three-choice cyclic initial projection
+54,Retna,Demak,Merchant,1000+,3,41,Hansa Cog,40,Sambuk,35,5,50,66,69,15,0x09EC6F,V4 three-choice cyclic initial projection
+54,Retna,Demak,Merchant,1000+,4,49,Carrack,52,Lancaran,140,15,60,73,73,15,0x09EC6F,V4 three-choice cyclic initial projection
+54,Retna,Demak,Merchant,1000+,5,48,Nao,40,Sambuk,35,5,50,66,69,16,0x09EC6F,V4 three-choice cyclic initial projection
+54,Retna,Demak,Merchant,1000+,6,41,Hansa Cog,40,Sambuk,35,5,50,66,69,16,0x09EC6F,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,1,54,Frigate,52,Lancaran,140,15,60,73,73,11,0x09EC99,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,2,54,Frigate,52,Lancaran,140,15,60,73,73,12,0x09EC99,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,3,47,Brigantine,52,Lancaran,140,15,60,73,73,12,0x09EC99,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,4,54,Frigate,52,Lancaran,140,15,60,73,73,13,0x09EC99,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,5,54,Frigate,52,Lancaran,140,15,60,73,73,13,0x09EC99,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,6,47,Brigantine,52,Lancaran,140,15,60,73,73,14,0x09EC99,V4 three-choice cyclic initial projection
+55,Usman,Demak,Main battle,1000+,7,54,Frigate,52,Lancaran,140,15,60,73,73,14,0x09EC99,V4 three-choice cyclic initial projection
+56,Tagaril,Demak,Main battle,500–999,1,54,Frigate,52,Lancaran,140,15,60,73,73,11,0x09EC97,V4 three-choice cyclic initial projection
+56,Tagaril,Demak,Main battle,500–999,2,47,Brigantine,52,Lancaran,140,15,60,73,73,12,0x09EC97,V4 three-choice cyclic initial projection
+56,Tagaril,Demak,Main battle,500–999,3,41,Hansa Cog,40,Sambuk,35,5,50,66,69,12,0x09EC97,V4 three-choice cyclic initial projection
+56,Tagaril,Demak,Main battle,500–999,4,54,Frigate,52,Lancaran,140,15,60,73,73,13,0x09EC97,V4 three-choice cyclic initial projection
+56,Tagaril,Demak,Main battle,500–999,5,47,Brigantine,52,Lancaran,140,15,60,73,73,13,0x09EC97,V4 three-choice cyclic initial projection
+56,Tagaril,Demak,Main battle,500–999,6,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09EC97,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,1,47,Brigantine,52,Lancaran,140,15,60,73,73,11,0x09ECBF,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,2,47,Brigantine,40,Sambuk,35,5,50,66,69,12,0x09ECBF,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,3,41,Hansa Cog,40,Sambuk,35,5,50,66,69,12,0x09ECBF,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,4,47,Brigantine,52,Lancaran,140,15,60,73,73,13,0x09ECBF,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,5,47,Brigantine,40,Sambuk,35,5,50,66,69,13,0x09ECBF,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,6,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09ECBF,V4 three-choice cyclic initial projection
+57,Jaka Tinkir,Demak,Other battle,0–499,7,47,Brigantine,52,Lancaran,140,15,60,73,73,15,0x09ECBF,V4 three-choice cyclic initial projection
+58,Kingkin,Demak,Other battle,500–999,1,54,Frigate,52,Lancaran,140,15,60,73,73,11,0x09ECC1,V4 three-choice cyclic initial projection
+58,Kingkin,Demak,Other battle,500–999,2,47,Brigantine,52,Lancaran,140,15,60,73,73,12,0x09ECC1,V4 three-choice cyclic initial projection
+58,Kingkin,Demak,Other battle,500–999,3,41,Hansa Cog,40,Sambuk,35,5,50,66,69,12,0x09ECC1,V4 three-choice cyclic initial projection
+58,Kingkin,Demak,Other battle,500–999,4,54,Frigate,52,Lancaran,140,15,60,73,73,13,0x09ECC1,V4 three-choice cyclic initial projection
+58,Kingkin,Demak,Other battle,500–999,5,47,Brigantine,52,Lancaran,140,15,60,73,73,13,0x09ECC1,V4 three-choice cyclic initial projection
+58,Kingkin,Demak,Other battle,500–999,6,41,Hansa Cog,40,Sambuk,35,5,50,66,69,14,0x09ECC1,V4 three-choice cyclic initial projection
+59,Jafar,Demak,Other battle,1000+,1,54,Frigate,52,Lancaran,140,15,60,73,73,11,0x09ECC3,V4 three-choice cyclic initial projection
+59,Jafar,Demak,Other battle,1000+,2,54,Frigate,52,Lancaran,140,15,60,73,73,12,0x09ECC3,V4 three-choice cyclic initial projection
+59,Jafar,Demak,Other battle,1000+,3,47,Brigantine,52,Lancaran,140,15,60,73,73,12,0x09ECC3,V4 three-choice cyclic initial projection
+59,Jafar,Demak,Other battle,1000+,4,54,Frigate,52,Lancaran,140,15,60,73,73,13,0x09ECC3,V4 three-choice cyclic initial projection
+59,Jafar,Demak,Other battle,1000+,5,54,Frigate,52,Lancaran,140,15,60,73,73,13,0x09ECC3,V4 three-choice cyclic initial projection
+59,Jafar,Demak,Other battle,1000+,6,47,Brigantine,52,Lancaran,140,15,60,73,73,14,0x09ECC3,V4 three-choice cyclic initial projection
+60,Antonio Khan,Demak,Special slot (10),1000+,1,54,Frigate,52,Lancaran,140,15,60,73,73,12,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,2,54,Frigate,52,Lancaran,140,15,60,73,73,12,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,3,47,Brigantine,40,Sambuk,35,5,50,66,69,12,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,4,54,Frigate,52,Lancaran,140,15,60,73,73,13,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,5,54,Frigate,52,Lancaran,140,15,60,73,73,12,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,6,47,Brigantine,40,Sambuk,35,5,50,66,69,14,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,7,54,Frigate,52,Lancaran,140,15,60,73,73,14,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,8,54,Frigate,52,Lancaran,140,15,60,73,73,13,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,9,47,Brigantine,40,Sambuk,35,5,50,66,69,13,SPECIAL60,Special native fleet; generation separate from 63 rules
+60,Antonio Khan,Demak,Special slot (10),1000+,10,54,Frigate,52,Lancaran,140,15,60,73,73,13,SPECIAL60,Special native fleet; generation separate from 63 rules
+61,Hamid Lal,Pirates / independents,Merchant,0–499,1,48,Nao,61,La Reale,160,30,60,85,82,12,0x09EC71,V4 three-choice cyclic initial projection
+61,Hamid Lal,Pirates / independents,Merchant,0–499,2,58,Light Galley,47,Brigantine,100,15,55,88,93,12,0x09EC71,V4 three-choice cyclic initial projection
+61,Hamid Lal,Pirates / independents,Merchant,0–499,3,58,Light Galley,53,Sloop,60,15,40,90,96,12,0x09EC71,V4 three-choice cyclic initial projection
+61,Hamid Lal,Pirates / independents,Merchant,0–499,4,48,Nao,61,La Reale,160,30,60,85,82,13,0x09EC71,V4 three-choice cyclic initial projection
+61,Hamid Lal,Pirates / independents,Merchant,0–499,5,58,Light Galley,47,Brigantine,100,15,55,88,93,13,0x09EC71,V4 three-choice cyclic initial projection
+61,Hamid Lal,Pirates / independents,Merchant,0–499,6,58,Light Galley,53,Sloop,60,15,40,90,96,14,0x09EC71,V4 three-choice cyclic initial projection
+61,Hamid Lal,Pirates / independents,Merchant,0–499,7,48,Nao,61,La Reale,160,30,60,85,82,14,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,1,48,Nao,61,La Reale,160,30,60,85,82,12,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,2,58,Light Galley,47,Brigantine,100,15,55,88,93,12,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,3,58,Light Galley,53,Sloop,60,15,40,90,96,12,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,4,48,Nao,61,La Reale,160,30,60,85,82,13,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,5,58,Light Galley,47,Brigantine,100,15,55,88,93,13,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,6,58,Light Galley,53,Sloop,60,15,40,90,96,14,0x09EC71,V4 three-choice cyclic initial projection
+62,Mary,Pirates / independents,Merchant,0–499,7,48,Nao,61,La Reale,160,30,60,85,82,14,0x09EC71,V4 three-choice cyclic initial projection
+63,Grace,Pirates / independents,Merchant,500–999,1,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC73,V4 three-choice cyclic initial projection
+63,Grace,Pirates / independents,Merchant,500–999,2,48,Nao,54,Frigate,180,50,60,95,95,12,0x09EC73,V4 three-choice cyclic initial projection
+63,Grace,Pirates / independents,Merchant,500–999,3,58,Light Galley,47,Brigantine,100,15,55,88,93,12,0x09EC73,V4 three-choice cyclic initial projection
+63,Grace,Pirates / independents,Merchant,500–999,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC73,V4 three-choice cyclic initial projection
+63,Grace,Pirates / independents,Merchant,500–999,5,48,Nao,54,Frigate,180,50,60,95,95,13,0x09EC73,V4 three-choice cyclic initial projection
+63,Grace,Pirates / independents,Merchant,500–999,6,58,Light Galley,47,Brigantine,100,15,55,88,93,14,0x09EC73,V4 three-choice cyclic initial projection
+64,Sayyida,Pirates / independents,Merchant,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09EC75,V4 three-choice cyclic initial projection
+64,Sayyida,Pirates / independents,Merchant,1000+,2,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC75,V4 three-choice cyclic initial projection
+64,Sayyida,Pirates / independents,Merchant,1000+,3,48,Nao,54,Frigate,180,50,60,95,95,12,0x09EC75,V4 three-choice cyclic initial projection
+64,Sayyida,Pirates / independents,Merchant,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC75,V4 three-choice cyclic initial projection
+64,Sayyida,Pirates / independents,Merchant,1000+,5,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC75,V4 three-choice cyclic initial projection
+64,Sayyida,Pirates / independents,Merchant,1000+,6,48,Nao,54,Frigate,180,50,60,95,95,14,0x09EC75,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09EC9F,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,2,54,Frigate,61,La Reale,160,30,60,85,82,11,0x09EC9F,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,3,54,Frigate,54,Frigate,180,50,60,95,95,12,0x09EC9F,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09EC9F,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,5,54,Frigate,61,La Reale,160,30,60,85,82,12,0x09EC9F,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,6,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09EC9F,V4 three-choice cyclic initial projection
+65,Khayr ad-Din,Pirates / independents,Main battle,1000+,7,61,La Reale,61,La Reale,160,30,60,85,82,13,0x09EC9F,V4 three-choice cyclic initial projection
+66,Idin Leis,Pirates / independents,Main battle,500–999,1,54,Frigate,61,La Reale,160,30,60,85,82,11,0x09EC9D,V4 three-choice cyclic initial projection
+66,Idin Leis,Pirates / independents,Main battle,500–999,2,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09EC9D,V4 three-choice cyclic initial projection
+66,Idin Leis,Pirates / independents,Main battle,500–999,3,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09EC9D,V4 three-choice cyclic initial projection
+66,Idin Leis,Pirates / independents,Main battle,500–999,4,54,Frigate,61,La Reale,160,30,60,85,82,12,0x09EC9D,V4 three-choice cyclic initial projection
+66,Idin Leis,Pirates / independents,Main battle,500–999,5,54,Frigate,54,Frigate,180,50,60,95,95,12,0x09EC9D,V4 three-choice cyclic initial projection
+66,Idin Leis,Pirates / independents,Main battle,500–999,6,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09EC9D,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,1,54,Frigate,61,La Reale,160,30,60,85,82,11,0x09ECC5,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,2,47,Brigantine,47,Brigantine,100,15,55,88,93,11,0x09ECC5,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,3,53,Sloop,53,Sloop,60,15,40,90,96,12,0x09ECC5,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,4,54,Frigate,61,La Reale,160,30,60,85,82,12,0x09ECC5,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,5,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09ECC5,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,6,53,Sloop,53,Sloop,60,15,40,90,96,13,0x09ECC5,V4 three-choice cyclic initial projection
+67,Mohommed Syarook,Pirates / independents,Other battle,0–499,7,54,Frigate,61,La Reale,160,30,60,85,82,13,0x09ECC5,V4 three-choice cyclic initial projection
+68,Ulgu Ali,Pirates / independents,Other battle,500–999,1,54,Frigate,61,La Reale,160,30,60,85,82,11,0x09ECC7,V4 three-choice cyclic initial projection
+68,Ulgu Ali,Pirates / independents,Other battle,500–999,2,54,Frigate,54,Frigate,180,50,60,95,95,11,0x09ECC7,V4 three-choice cyclic initial projection
+68,Ulgu Ali,Pirates / independents,Other battle,500–999,3,47,Brigantine,47,Brigantine,100,15,55,88,93,12,0x09ECC7,V4 three-choice cyclic initial projection
+68,Ulgu Ali,Pirates / independents,Other battle,500–999,4,54,Frigate,61,La Reale,160,30,60,85,82,12,0x09ECC7,V4 three-choice cyclic initial projection
+68,Ulgu Ali,Pirates / independents,Other battle,500–999,5,54,Frigate,54,Frigate,180,50,60,95,95,12,0x09ECC7,V4 three-choice cyclic initial projection
+68,Ulgu Ali,Pirates / independents,Other battle,500–999,6,47,Brigantine,47,Brigantine,100,15,55,88,93,13,0x09ECC7,V4 three-choice cyclic initial projection
+69,Eleanor,Pirates / independents,Other battle,1000+,1,61,La Reale,61,La Reale,160,30,60,85,82,11,0x09ECC9,V4 three-choice cyclic initial projection
+69,Eleanor,Pirates / independents,Other battle,1000+,2,54,Frigate,61,La Reale,160,30,60,85,82,11,0x09ECC9,V4 three-choice cyclic initial projection
+69,Eleanor,Pirates / independents,Other battle,1000+,3,54,Frigate,54,Frigate,180,50,60,95,95,12,0x09ECC9,V4 three-choice cyclic initial projection
+69,Eleanor,Pirates / independents,Other battle,1000+,4,61,La Reale,61,La Reale,160,30,60,85,82,12,0x09ECC9,V4 three-choice cyclic initial projection
+69,Eleanor,Pirates / independents,Other battle,1000+,5,54,Frigate,61,La Reale,160,30,60,85,82,12,0x09ECC9,V4 three-choice cyclic initial projection
+69,Eleanor,Pirates / independents,Other battle,1000+,6,54,Frigate,54,Frigate,180,50,60,95,95,13,0x09ECC9,V4 three-choice cyclic initial projection

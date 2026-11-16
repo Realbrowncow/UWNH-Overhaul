@@ -1,0 +1,54 @@
+{
+  "project": "Uncharted Waters New Horizons USA SNES",
+  "snapshot_date": "2026-11-16",
+  "status": "Documentation and independent verification only; no ROM or IPS included",
+  "rom_format": {"region": "USA", "headerless": true, "size_bytes": 4194304},
+  "latest_experimental_rom": "Test54c",
+  "editor": {
+    "name": "World, Ship & Fleet Studio Beta 5.8",
+    "baseline_rom": "Test53",
+    "note": "Do not assume editor embeds Test54a/b/c bytes"
+  },
+  "builds": [
+    {
+      "id": "Test53",
+      "sha256": "9f91aaa32e91808397b470e58fd3104fe35c5885b554de5bf6e39a2d5efe6b78",
+      "status": "Selected portraits and Rimbo/Asmira walker visuals gameplay checked"
+    },
+    {
+      "id": "Test54a",
+      "parent": "Test53",
+      "sha256": "c94203089c0bdfa3fd64de39599bc2788209c9439f544424cca423a9dc4eb149",
+      "ips_sha256": "3016daf65341365acd3df6dd2ecf1c14d1917c768c91d4aa754b0b922c219ffc",
+      "ips_bytes": 7834,
+      "changed_bytes": 3421,
+      "scope": "Sambuk Jong Lancaran shipyard images",
+      "static_checks_passed": 42,
+      "static_checks_total": 42,
+      "gameplay": "Sambuk and Lancaran images accepted; Jong pending"
+    },
+    {
+      "id": "Test54b",
+      "parent": "Test54a",
+      "sha256": "712fa01718857fe8398d7c6808c04674e60a0ff7ed0021e23e86ace524f7b7ba",
+      "ips_sha256": "1f2965a1246e36acf347ac1803323d2d9eadcc9811b870b1fff5a935342c842c",
+      "ips_bytes": 1835,
+      "changed_bytes": 1372,
+      "scope": "19 of 25 shipyard descriptions revised, six unchanged",
+      "gameplay": "Selected ship descriptions visually accepted; not 25 comprehensive tests"
+    },
+    {
+      "id": "Test54c",
+      "parent": "Test54b",
+      "sha256": "924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01",
+      "ips_sha256": "09825452aeadf5eed49adc98a31e20e5b56050e94677c35622dcd53b6037dbc6",
+      "ips_bytes": 252,
+      "changed_bytes": 164,
+      "snes_checksum": "0x8EB9",
+      "scope": "Rimbo full biography; two short intro fragments",
+      "gameplay": "Owner screenshots confirm corrected full and short intro text",
+      "known_fail": "Biography title still displays ~Ernst~",
+      "full_regression": "Not yet run"
+    }
+  ]
+}
