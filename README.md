@@ -37,6 +37,12 @@ The **[Test54c clean-US cumulative IPS](patches/test54c-clean-us/UWNH_Test54c_CU
 
 Use an IPS patcher with RLE and size-expansion support, and verify both hashes. Obtain your own lawful retail copy. The project licences cover **original** materials, not the original game or any third-party content that a patch might encode. This is an unofficial experimental release.
 
+## ROM-free editor source — Beta 5.9 and Rev A
+
+The [Beta 5.9 source](editor_beta59/base/README_Beta59_Test54c.md) and [Rev A Original-ROM-to-Test54c upgrade source](editor_beta59/rev_a/README_Beta59_UpgradeOriginal_Test54c_2026-11-16.md) are now public for technical review. You can also download the [Beta 5.9 source ZIP](releases/UWNH_World_Ship_Fleet_Studio_Beta_5_9_Test54c_ROM_FREE_Source_2026-11-16.zip) and [Rev A upgrade source ZIP](releases/UWNH_Beta59_UpgradeOriginal_Test54c_RevA_ROM_FREE_Source_2026-11-16.zip).
+
+These are **source/rebuild kits, not standalone editor downloads**. Building the private integrated HTML requires the author's exact private baseline editor and independently obtained game image/IPS; generated HTML embeds commercial game bytes and **must not be uploaded**. See the [editor source overview](editor_beta59/README.md) for dependencies, hashes and limitations. Rev A's original-ROM upgrade and existing editing controls passed independent Node tests; browser click/download and broad emulator regression remain unverified.
+
 ## Read the guides
 
 1. [How the ROM is structured](docs/rom-address-map.md) — headerless PC offsets, SNES address concepts and master data map.

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-16",
+  "project_owner": "Ken Chee",
+  "baseline_beta59_sha256": "7d9b5263588929b49e186da4b108ac6475201cd25adbe826a7e67a0d757e890e",
+  "beta59_reva_sha256": "c2b97d8f51238c88f15d714385aa9bdb493ee68c838a397310888b38c489007b",
+  "cumulative_ips_sha256": "b92debc2c64dc10a0570f6da9eca182565b35e13de2caeef125bf4b3eb149286",
+  "clean_rom_sha256": "64bc4707f422661a66618088887e2363a5f896ea683c58984fffd96dd21ab5f0",
+  "exact_test54c_sha256": "924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01",
+  "ips_records": 5763,
+  "tests": {
+    "ips_expansion_and_exact_byte_match": "PASS",
+    "source_immutable": "PASS",
+    "incorrect_sources_refused": "PASS",
+    "truncated_ips_refused": "PASS",
+    "existing_beta59_regressions": "PASS",
+    "inline_js_syntax": "PASS",
+    "real_browser_click_and_download": "NOT TESTED",
+    "gameplay_complete": "NOT TESTED"
+  },
+  "private_html_contains_embedded_rom": true
+}

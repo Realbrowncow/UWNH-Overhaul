@@ -1,0 +1,12 @@
+<div class="section port-panel" id="originalUpgradeSection">
+ <div class="kicker">New · Verified clean-ROM upgrade</div>
+ <h2>Upgrade Original ROM to Test54c</h2>
+ <p class="desc">Choose your own unmodified, headerless 2 MiB US <i>Uncharted Waters: New Horizons</i> ROM. The built-in, cumulative IPS transforms it into the exact 4 MiB Test54c build. The original file is never changed.</p>
+ <label class="kicker" for="upgradeOriginalFile">Original US ROM (.smc or .sfc)</label>
+ <input type="file" id="upgradeOriginalFile" accept=".smc,.sfc,.bin,application/octet-stream" style="width:100%">
+ <div class="portbtns"><button class="btn primary" id="upgradeOriginalButton" disabled>Verify and Create Test54c</button></div>
+ <div class="hint" id="upgradeOriginalStatus" role="status" aria-live="polite" style="white-space:pre-line;border-left:2px solid #87bd89;padding-left:9px">Select an original ROM to begin. This upgrade works locally and verifies SHA-256 hashes before saving the new ROM. Previously modified ROMs and 512-byte copier headers are not accepted.</div>
+ <details style="margin-top:9px"><summary class="kicker" style="cursor:pointer">Checks and limitations</summary>
+  <p class="hint">Requires the exact clean US source (2,097,152 bytes; SHA-256 64bc4707f422661a66618088887e2363a5f896ea683c58984fffd96dd21ab5f0). The embedded cumulative IPS is independently checked and the upgraded ROM must match Test54c SHA-256 924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01. No network access is used. Test54c remains an experimental build; a complete gameplay test is still pending.</p>
+ </details>
+</div>

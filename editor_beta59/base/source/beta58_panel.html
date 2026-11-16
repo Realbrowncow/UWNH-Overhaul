@@ -1,0 +1,67 @@
+<div class="section port-panel" id="test53Section">
+ <div class="kicker">New · Safe 4 MiB project editor</div>
+ <h2>Test 53 · Mod Systems</h2>
+ <p class="desc">Edit the latest project ROM without re-encoding its map. This independent workspace is SHA-256 locked to the visually accepted Test 53 and carries forward V8v4 ships, 100-port prices, Economy gates, the 286-counter stock engine, NPC fleets, Rimbo/Asmira faces and native walking sprites.</p>
+ <div class="portbtns"><button class="btn primary" id="t53Load">Load bundled Test 53</button><button class="btn" id="t53Open">Choose exact Test 53 ROM</button></div>
+ <div class="hint" id="t53Status" style="white-space:pre-line;border-left:2px solid #85c6ce;padding-left:9px">Test 53 not loaded. Load the bundled image or select the exact 4 MiB Test 53 file.</div>
+
+ <details open style="margin-top:9px"><summary class="kicker" style="cursor:pointer">Independent 100-port × 46-good resale quotes</summary>
+  <p class="hint">Edits the 16-bit quotation stored for the selected port and good. The producer's purchasing/buyback path is separate. Adjust one quote at a time; all other quotes stay unchanged.</p>
+  <label class="kicker" for="t53Port">Native port ID</label><select id="t53Port" style="width:100%;padding:8px"></select>
+  <label class="kicker" for="t53Good">ROM good ID</label><select id="t53Good" style="width:100%;padding:8px"></select>
+  <div class="shipfields"><label>Resale quote (unsigned 16-bit)<input id="t53Quote" type="number" min="0" max="65535" step="1"></label><label>Current address<input id="t53QuoteAddr" readonly></label></div>
+  <div class="portbtns"><button class="btn" id="t53QuoteApply">Stage quote</button><button class="btn" id="t53QuoteReset">Restore quote</button></div>
+ </details>
+
+ <details><summary class="kicker" style="cursor:pointer">Producing-good Economy requirements</summary>
+  <p class="hint">Advanced: this port's nine local producer-offer slots sit at +119…+127 in its 128-byte trade record. A slot is meaningful only if a corresponding producer-good offer exists; verify its matching local slot from the source workbook before changing it. Encoding is Economy ÷ 10.</p>
+  <label class="kicker" for="t53Offer">Local producing offer slot (0–8)</label><select id="t53Offer" style="width:100%;padding:8px"></select>
+  <div class="shipfields"><label>Required Economy (multiple of 10)<input id="t53Economy" type="number" min="0" max="2550" step="10"></label><label>Address<input id="t53EconAddr" readonly></label></div>
+  <div class="portbtns"><button class="btn" id="t53EconApply">Stage requirement</button><button class="btn" id="t53EconReset">Restore requirement</button></div>
+ </details>
+
+ <details><summary class="kicker" style="cursor:pointer">25 V8v4 ship performance records</summary>
+  <p class="hint">This safe subset edits tacking (+2), sailing power (+3) and total capacity (+6, 16-bit). Full hull/price/crew/guns semantics require the canonical workbook and model compiler; they are preserved here.</p>
+  <label class="kicker" for="t53Ship">Model slot (0–24)</label><select id="t53Ship" style="width:100%;padding:8px"></select>
+  <div class="shipfields"><label>Tacking<input id="t53Tack" type="number" min="0" max="255" step="1"></label><label>Sailing<input id="t53Sail" type="number" min="0" max="255" step="1"></label><label>Capacity<input id="t53Capacity" type="number" min="0" max="65535" step="1"></label></div>
+  <div class="portbtns"><button class="btn" id="t53ShipApply">Stage performance</button><button class="btn" id="t53ShipReset">Restore model</button></div>
+  <p class="hint" id="t53ShipInfo"></p>
+ </details>
+
+ <details><summary class="kicker" style="cursor:pointer">Port market, Autosail and A–K shipyard records</summary>
+  <p class="hint">Port IDs come from the price panel above. These are the +33 geographic region (0–12) and +34 shipyard region (0–10) bytes. This does not relocate coastline/harbour coordinates or rebuild construction allowlists. For Demak/Jepara ID33 and Jong-only Makassar ID77, review every related rule first.</p>
+  <div class="shipfields"><label>Geographic region<input id="t53Geo" type="number" min="0" max="12" step="1"></label><label>A–K yard index<input id="t53Yard" type="number" min="0" max="10" step="1"></label></div>
+  <div class="portbtns"><button class="btn" id="t53PortApply">Stage regions</button><button class="btn" id="t53PortReset">Restore regions</button></div>
+ </details>
+
+ <details><summary class="kicker" style="cursor:pointer">Special equipment-shop item moves</summary>
+  <p class="hint">Swap native special-offer bytes across two ports. Keeps each item's frequency and checks for same-port duplicates with ordinary items.</p>
+  <label class="kicker" for="t53RareFrom">Source port</label><select id="t53RareFrom" style="width:100%;padding:8px"></select>
+  <label class="kicker" for="t53RareTo">Destination port</label><select id="t53RareTo" style="width:100%;padding:8px"></select>
+  <div class="portbtns"><button class="btn" id="t53RareSwap">Swap special offers</button><button class="btn" id="t53RareReset">Restore all offers</button></div>
+  <p class="hint" id="t53RareInfo"></p>
+ </details>
+
+ <details><summary class="kicker" style="cursor:pointer">Navigator face selection (existing portraits)</summary>
+  <p class="hint">Changes the navigator's complete 16-bit face reference (+26 and +27 of the 50-byte record). Some original navigators have larger, composed-image references; choosing a standard ID 0–127 replaces both bytes. This *does not* import new 40×48 portrait art. Preserve Rimbo/Ernst and Asmira/Hans's fixed-face aliases unless intentionally changing them.</p>
+  <label class="kicker" for="t53Navigator">Navigator ID (0–119)</label><select id="t53Navigator" style="width:100%;padding:8px"></select>
+  <div class="shipfields"><label>Fixed-face ID (0–127)<input id="t53Face" type="number" min="0" max="127" step="1"></label><label>Address<input id="t53FaceAddr" readonly></label></div>
+  <p class="hint" id="t53FaceCurrent"></p>
+  <div class="portbtns"><button class="btn" id="t53FaceApply">Stage face reference</button><button class="btn" id="t53FaceReset">Restore face reference</button></div>
+ </details>
+
+ <details><summary class="kicker" style="cursor:pointer">Reference-only · Fleets, stocks, cannons and sprites</summary>
+  <p class="hint">These systems are incorporated in the bundled Test 53 bytes, but modifying them reliably requires the specialized code and workbooks. This release displays verified records without pretending every future generator rule, art compressor or SRAM algorithm is a one-byte setting.</p>
+  <label class="kicker" for="t53Rule">63 future NPC fleet generation records</label><select id="t53Rule" style="width:100%;padding:8px"></select><p class="hint" id="t53RuleInfo"></p>
+  <p class="hint" id="t53GoodStock"></p>
+  <p class="hint"><b>Confirmed systems:</b> 64 NPC fleets / 416 starting ships; 286 independent producer-good stock counters at SRAM $25:6020…$25:625B (not ordinary ROM inventory); seven cannon types; Rimbo/Ernst spear walker, Asmira/Hans Indian-woman walker, Test50 custom faces. Port relocation still requires the map/discovery tool and a protected ROM merge. This panel does not rewrite those code hooks.</p>
+ </details>
+
+ <div class="kicker">Validated Test53 build output</div>
+ <div class="portbtns"><button class="btn" id="t53SaveEdits">Save Test53 edits JSON</button><button class="btn" id="t53OpenEdits">Open Test53 edits JSON</button></div>
+ <input id="t53EditsFile" type="file" accept=".json,.uw53" style="display:none">
+ <div class="portbtns"><button class="btn primary" id="t53ExportRom">Export edited ROM</button><button class="btn" id="t53ExportIps">Export exact-source IPS</button></div>
+ <div class="portbtns"><button class="btn" id="t53Reset">Discard all Test53 edits</button><button class="btn" id="t53Audit">Show static audit</button></div>
+ <p class="hint" id="t53ExportInfo" style="white-space:pre-line">The original baseline remains unchanged. Only staged data bytes, optional text identity edits and SNES checksum bytes are exported. No gameplay PASS is claimed for new changes.</p>
+ <p class="hint warn"><b>Do not publish this personal HTML file:</b> like the earlier Test44 editor, it contains bundled commercial game data. The separate public GitHub research ZIP is ROM-free. Always test exported ROMs in an isolated emulator profile with ordinary Save/Continue.</p>
+</div>

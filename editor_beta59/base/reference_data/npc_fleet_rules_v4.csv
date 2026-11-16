@@ -1,0 +1,64 @@
+pc,status,previous_choices,implemented_choices,before_hex,after_hex
+0x09EC4D,V4 updated,Nao / Nao / Tallette,Carrack / Nao / Tallette,4401,4501
+0x09EC4F,Preserved V3,Carrack / Nao / Nao,Carrack / Nao / Nao,4504,4504
+0x09EC51,Preserved V3,Carrack / Carrack / Nao,Carrack / Carrack / Nao,5504,5504
+0x09EC53,V4 updated,Nao / Nao / Tallette,Carrack / Nao / Tallette,4401,4501
+0x09EC55,Preserved V3,Carrack / Nao / Nao,Carrack / Nao / Nao,4504,4504
+0x09EC57,Preserved V3,Carrack / Carrack / Nao,Carrack / Carrack / Nao,5504,5504
+0x09EC59,Preserved V3,Nao / Nao / Light Galley,Nao / Nao / Light Galley,4409,4409
+0x09EC5B,V4 updated,La Reale / Nao / Nao,La Reale / Nao / Light Galley,4a04,4a09
+0x09EC5D,V4 updated,La Reale / La Reale / Nao,La Reale / Nao / Nao,aa04,4a04
+0x09EC5F,Preserved V3,Brigantine / Hansa Cog / Caravela Redonda,Brigantine / Hansa Cog / Caravela Redonda,0302,0302
+0x09EC61,V4 updated,Nao / Brigantine / Hansa Cog,Brigantine / Hansa Cog / Hansa Cog,3400,0300
+0x09EC63,V4 updated,Carrack / Carrack / Hansa Cog,Frigate / Carrack / Hansa Cog,5500,5800
+0x09EC65,V4 updated,Sloop / Sloop / Tallette,Sloop / Nao / Tallette,7701,4701
+0x09EC67,V4 updated,Carrack / Nao / Nao,Sloop / Carrack / Nao,4504,5704
+0x09EC69,Preserved V3,La Reale / Carrack / Nao,La Reale / Carrack / Nao,5a04,5a04
+0x09EC6B,V4 updated,Hansa Cog / Hansa Cog / Caravela Redonda,Sambuk / Sambuk / Dhow,0002,bb0d
+0x09EC6D,V4 updated,Nao / Hansa Cog / Hansa Cog,Sambuk / Sambuk / Sambuk,0400,bb0b
+0x09EC6F,V4 updated,Carrack / Nao / Hansa Cog,Lancaran / Sambuk / Sambuk,4500,bc0b
+0x09EC71,V4 updated,Nao / Light Galley / Light Galley,La Reale / Brigantine / Sloop,9409,3a07
+0x09EC73,V4 updated,La Reale / Nao / Light Galley,La Reale / Frigate / Brigantine,4a09,8a03
+0x09EC75,V4 updated,La Reale / La Reale / Nao,La Reale / La Reale / Frigate,aa04,aa08
+0x09EC77,Preserved V3,Nao / Nao / Tallette,Nao / Nao / Tallette,4401,4401
+0x09EC79,V4 updated,Carrack / Nao / Nao,Galleon / Carrack / Nao,4504,5604
+0x09EC7B,V4 updated,Galleon / Carrack / Nao,Galleon / Galleon / Carrack,5604,6605
+0x09EC7D,Preserved V3,Nao / Nao / Tallette,Nao / Nao / Tallette,4401,4401
+0x09EC7F,V4 updated,Carrack / Nao / Nao,Galleon / Carrack / Nao,4504,5604
+0x09EC81,V4 updated,Galleon / Carrack / Nao,Galleon / Galleon / Carrack,5604,6605
+0x09EC83,Preserved V3,Nao / Light Galley / Light Galley,Nao / Light Galley / Light Galley,9409,9409
+0x09EC85,Preserved V3,La Reale / Nao / Light Galley,La Reale / Nao / Light Galley,4a09,4a09
+0x09EC87,Preserved V3,La Reale / La Reale / Nao,La Reale / La Reale / Nao,aa04,aa04
+0x09EC89,Preserved V3,Brigantine / Brigantine / Caravela Redonda,Brigantine / Brigantine / Caravela Redonda,3302,3302
+0x09EC8B,Preserved V3,Frigate / Brigantine / Brigantine,Frigate / Brigantine / Brigantine,3803,3803
+0x09EC8D,Preserved V3,Frigate / Frigate / Brigantine,Frigate / Frigate / Brigantine,8803,8803
+0x09EC8F,Preserved V3,Sloop / Sloop / Light Galley,Sloop / Sloop / Light Galley,7709,7709
+0x09EC91,Preserved V3,La Reale / Sloop / Sloop,La Reale / Sloop / Sloop,7a07,7a07
+0x09EC93,Preserved V3,La Reale / La Reale / Sloop,La Reale / La Reale / Sloop,aa07,aa07
+0x09EC95,Preserved V3,Brigantine / Brigantine / Hansa Cog,Brigantine / Brigantine / Hansa Cog,3300,3300
+0x09EC97,V4 updated,Frigate / Brigantine / Hansa Cog,Lancaran / Lancaran / Sambuk,3800,cc0b
+0x09EC99,V4 updated,Frigate / Frigate / Brigantine,Lancaran / Lancaran / Lancaran,8803,cc0c
+0x09EC9B,Preserved V3,Frigate / Brigantine / Sloop,Frigate / Brigantine / Sloop,3807,3807
+0x09EC9D,V4 updated,Frigate / Frigate / Brigantine,La Reale / Frigate / Brigantine,8803,8a03
+0x09EC9F,V4 updated,La Reale / Frigate / Frigate,La Reale / La Reale / Frigate,8a08,aa08
+0x09ECA1,V4 updated,Nao / Nao / Tallette,Galleon / Carrack / Nao,4401,5604
+0x09ECA3,V4 updated,Carrack / Nao / Nao,Galleon / Carrack / Carrack,4504,5605
+0x09ECA5,V4 updated,Galleon / Carrack / Nao,Galleon / Galleon / Carrack,5604,6605
+0x09ECA7,V4 updated,Nao / Nao / Tallette,Galleon / Carrack / Nao,4401,5604
+0x09ECA9,V4 updated,Carrack / Nao / Nao,Galleon / Carrack / Carrack,4504,5605
+0x09ECAB,V4 updated,Galleon / Carrack / Nao,Galleon / Galleon / Carrack,5604,6605
+0x09ECAD,V4 updated,Nao / Light Galley / Light Galley,La Reale / Light Galley / Light Galley,9409,9a09
+0x09ECAF,Preserved V3,La Reale / Nao / Light Galley,La Reale / Nao / Light Galley,4a09,4a09
+0x09ECB1,Preserved V3,La Reale / La Reale / Nao,La Reale / La Reale / Nao,aa04,aa04
+0x09ECB3,V4 updated,Brigantine / Brigantine / Caravela Redonda,Frigate / Brigantine / Caravela Redonda,3302,3802
+0x09ECB5,Preserved V3,Frigate / Brigantine / Brigantine,Frigate / Brigantine / Brigantine,3803,3803
+0x09ECB7,Preserved V3,Frigate / Frigate / Brigantine,Frigate / Frigate / Brigantine,8803,8803
+0x09ECB9,V4 updated,Sloop / Sloop / Light Galley,La Reale / Sloop / Light Galley,7709,7a09
+0x09ECBB,Preserved V3,La Reale / Sloop / Sloop,La Reale / Sloop / Sloop,7a07,7a07
+0x09ECBD,Preserved V3,La Reale / La Reale / Sloop,La Reale / La Reale / Sloop,aa07,aa07
+0x09ECBF,V4 updated,Brigantine / Brigantine / Hansa Cog,Lancaran / Sambuk / Sambuk,3300,bc0b
+0x09ECC1,V4 updated,Frigate / Brigantine / Hansa Cog,Lancaran / Lancaran / Sambuk,3800,cc0b
+0x09ECC3,V4 updated,Frigate / Frigate / Brigantine,Lancaran / Lancaran / Lancaran,8803,cc0c
+0x09ECC5,V4 updated,Frigate / Brigantine / Sloop,La Reale / Brigantine / Sloop,3807,3a07
+0x09ECC7,V4 updated,Frigate / Frigate / Brigantine,La Reale / Frigate / Brigantine,8803,8a03
+0x09ECC9,V4 updated,La Reale / Frigate / Frigate,La Reale / La Reale / Frigate,8a08,aa08

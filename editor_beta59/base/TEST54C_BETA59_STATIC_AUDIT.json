@@ -1,0 +1,22 @@
+{
+  "test": "Beta 5.9 Test54c Integrated Editor",
+  "date_singapore": "2026-11-16",
+  "status": "STATIC FUNCTIONAL PASS; browser visual and real gameplay unverified",
+  "owner": "Ken Chee",
+  "source_editor_version": "Beta 5.8 Test53 Integrated",
+  "source_editor_sha256": "e79862dd436697489cfe326378e240c67052faccbb69ea8ad3f0f8da87186f19",
+  "rom_version": "Test54c",
+  "rom_sha256": "924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01",
+  "rom_bytes": 4194304,
+  "new_editor_sha256": "7d9b5263588929b49e186da4b108ac6475201cd25adbe826a7e67a0d757e890e",
+  "new_editor_bytes": 3846585,
+  "editor_core_qa": "PASS: loaded bundled target, zero-edit roundtrip, quote, ship, Economy, port, face, item swaps, settings, unsafe/wrong-source rejection, IPS/ROM replay",
+  "inline_scripts_compilation": "PASS: all six executable scripts",
+  "legacy_editor_preservation": "Beta5.8 HTML is immutable input; Test44 workspace and former features remain",
+  "new_editable_features": "None beyond Beta5.8; Test54a/b/c are embedded source changes",
+  "known_issue": "Rimbo biography heading ~Ernst~ is still present",
+  "browser_visual_testing": "NOT AVAILABLE: Chromium socket sandbox restriction",
+  "real_gameplay_regression": "NOT TESTED for Beta5.9 new exports",
+  "baseline_protection": "Exact Test54c SHA256 required; stale Test53 settings rejected",
+  "private_binary_handling": "HTML/ZIP include compressed commercial game bytes; must not be distributed publicly"
+}
