@@ -1,8 +1,8 @@
-# Uncharted Waters New Horizons US SNES Modding Research
+# UWNH Overhaul — Uncharted Waters: New Horizons
 
-Engineering notes, reproducible data layouts, implementation case studies and test reports for a long-running community modification of **Uncharted Waters: New Horizons** (USA SNES).
+**UWNH Overhaul** is Ken Chee (Realbrowncow)'s experimental modification of *Uncharted Waters: New Horizons* (USA SNES), accompanied by engineering notes, reproducible data layouts, implementation case studies and test reports. **UWNH Overhaul Studio** is the name of the associated editing application from the upcoming Beta 6.0; that editor is still under development.
 
-**Documentation snapshot:** 16 November 2026. **Latest integrated and observed-to-boot branch:** **Test54c**, a 4,194,304-byte headerless experimental ROM with SHA-256 `924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01`. It inherits Test53's Rimbo/Asmira portraits and walking sprites, Test54a's three shipyard illustrations, and Test54b's revised shipyard descriptions. Test54c's full Rimbo biography and short introduction were checked in-game. The `~Ernst~` biography heading remains an acknowledged defect. Complete campaign and ordinary-save regression are **not** implied by these narrow checks.
+**Historical documentation snapshot (16 November 2026):** At that time the latest integrated and observed-to-boot branch was **Test54c**, a 4,194,304-byte headerless experimental ROM with SHA-256 `924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01`. It inherits Test53's Rimbo/Asmira portraits and walking sprites, Test54a's three shipyard illustrations, and Test54b's revised shipyard descriptions. Test54c's full Rimbo biography and short introduction were checked in-game. The `~Ernst~` biography heading remains an acknowledged defect. Complete campaign and ordinary-save regression are **not** implied by these narrow checks.
 
 This repository describes research and original patch-making methods. **It does not contain the commercial ROM, Koei graphics, BIOS files, emulator states, or private save games.** Bring your own lawfully obtained US SNES game. An IPS must be applied to the **exact SHA-256 source build identified beside it**, never to an arbitrary ROM.
 
@@ -27,7 +27,19 @@ This repository describes research and original patch-making methods. **It does 
 
 **Game-tested** means a named screenshot/test confirmed that *particular* action. **Static-tested** means bytes, source tables, checksum or patch roundtrip checked. **Not yet tested** is not a failure. We deliberately retain those labels at feature level.
 
-## Download and apply Test54c (experimental)
+## Current public build: UWNH Overhaul Test56q (experimental)
+
+**Test56q** is the latest public experimental build (20 November 2026). It incorporates the earlier world, ship, economy, character, discovery-dialogue and ship-resale experiments, plus further town-NPC dialogue changes. The **Jepara capital duel warning** and **Onim exclusive-goods dialogue** passed targeted gameplay checks; the full 100-port and full-game regression remain outstanding.
+
+- **Recommended:** [Test56q ROM-free Easy Offline Upgrader ZIP](releases/UWNH_Test56q_Easy_Offline_Upgrader_ROM_FREE_2026-11-19.zip)
+- **Alternative for experienced patchers:** [Test56q cumulative IPS](patches/test56q-clean-us/UWNH_Test56q_CUMULATIVE_from_Clean_US_ROM_2026-11-19.ips)
+- **Instructions:** [Test56q offline upgrade guide](docs/test56q-easy-offline-upgrader.md) · [illustrated WordPress guide](https://cheeken78.wordpress.com/uncharted-waters/test56q-installation-guide/)
+
+**Input:** clean, unmodified, headerless US ROM of 2,097,152 bytes, SHA-256 `64bc4707f422661a66618088887e2363a5f896ea683c58984fffd96dd21ab5f0`. **Output:** 4,194,304 bytes, SHA-256 `a8e72f2b9c8db2be7e6f5c10852cd0282cc13b0eea681cc450e398ebaa5aff9b`.
+
+The offline upgrader runs locally in a browser, verifies the game file and generates a new ROM without changing the original. It is not an editor. The IPS and upgrader are **alternatives**, not patches to be applied in sequence. The game ROM is never provided.
+
+## Earlier release: Test54c (experimental)
 
 The **[Test54c clean-US cumulative IPS](patches/test54c-clean-us/UWNH_Test54c_CUMULATIVE_from_Clean_US_ROM_2026-11-16.ips)** is available alongside a **[ready-to-download ZIP package](releases/UWNH_Test54c_Clean_US_ROM_IPS_GitHub_2026-11-16.zip)** and the **[complete patching instructions](patches/test54c-clean-us/README_Test54c_Clean_US_IPS_2026-11-16.md)**. The ZIP includes the IPS, audit, builder and independent verifier. It does **not** contain a ROM.
 
@@ -37,7 +49,9 @@ The **[Test54c clean-US cumulative IPS](patches/test54c-clean-us/UWNH_Test54c_CU
 
 Use an IPS patcher with RLE and size-expansion support, and verify both hashes. Obtain your own lawful retail copy. The project licences cover **original** materials, not the original game or any third-party content that a patch might encode. This is an unofficial experimental release.
 
-## ROM-free editor source — Beta 5.9 and Rev A
+## Editor history: World, Ship & Fleet Studio Beta 5.9 and Rev A
+
+**Branding update:** The next integrated editor will be called **UWNH Overhaul Studio**, beginning with **Beta 6.0** once it is completed and verified. Beta 5.9 and Rev A remain archived under their original filenames and earlier *World, Ship & Fleet Studio* identity; do not confuse the upcoming editor with the already available Test56q offline upgrader.
 
 The [Beta 5.9 source](editor_beta59/base/README_Beta59_Test54c.md) and [Rev A Original-ROM-to-Test54c upgrade source](editor_beta59/rev_a/README_Beta59_UpgradeOriginal_Test54c_2026-11-16.md) are now public for technical review. You can also download the [Beta 5.9 source ZIP](releases/UWNH_World_Ship_Fleet_Studio_Beta_5_9_Test54c_ROM_FREE_Source_2026-11-16.zip) and [Rev A upgrade source ZIP](releases/UWNH_Beta59_UpgradeOriginal_Test54c_RevA_ROM_FREE_Source_2026-11-16.zip).
 
@@ -101,4 +115,4 @@ These licences do not imply endorsement by Koei / Koei Tecmo or the credited ups
 
 ## Repository status
 
-This is a **public documentation and research release candidate**, not a single-click full hack installer. Some experiments lack their original build script in the recovered source collection; exact offsets are stated only when supported by a surviving audit or code. The **clean-US cumulative Test54c IPS and ZIP package are available publicly** using the links above; the original and modified ROM images remain private and are not included. The published patch has a byte-identical static replay PASS, not a full gameplay certification. Documentation and independently usable tools remain available for further review.
+This remains an **experimental research and modification project**, not a fully certified campaign release. The ROM-free **Test56q Easy Offline Upgrader** is available for players who own the clean US ROM; the separate IPS is for manual patching. Older Test54c and Beta 5.9 files remain archived. Some experiments still lack complete rebuild or gameplay evidence; exact offsets are stated only when supported by surviving audit or code. **No commercial original or modified ROM is distributed.**
