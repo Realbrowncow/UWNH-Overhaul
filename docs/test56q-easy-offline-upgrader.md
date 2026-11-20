@@ -4,8 +4,8 @@
 
 This is a cumulative IPS patch for the **original, unmodified US SNES** version of *Uncharted Waters: New Horizons*, not an update to Test54c or another modified ROM. The easiest method is the ROM-free offline upgrader.
 
-- [Download Easy Offline Upgrader ZIP](https://github.com/Realbrowncow/Uncharted-Waters-New-Horizons-ROM-Research/raw/refs/heads/main/releases/UWNH_Test56q_Easy_Offline_Upgrader_ROM_FREE_2026-11-19.zip)
-- [Download Test56q cumulative IPS](https://github.com/Realbrowncow/Uncharted-Waters-New-Horizons-ROM-Research/raw/refs/heads/main/patches/test56q-clean-us/UWNH_Test56q_CUMULATIVE_from_Clean_US_ROM_2026-11-19.ips)
+- [Download Easy Offline Upgrader ZIP](https://github.com/Realbrowncow/UWNH-Overhaul/raw/refs/heads/main/releases/UWNH_Overhaul_Test56q_Easy_Upgrader.zip)
+- [Download Test56q cumulative IPS](https://github.com/Realbrowncow/UWNH-Overhaul/raw/refs/heads/main/patches/test56q-clean-us/UWNH_Overhaul_Test56q.ips)
 - [Illustrated installation guide](https://cheeken78.wordpress.com/uncharted-waters/test56q-installation-guide/)
 
 ## Use the offline upgrader

@@ -31,13 +31,13 @@ This repository describes research and original patch-making methods. **It does 
 
 **Test56q** is the latest public experimental build (20 November 2026). It incorporates the earlier world, ship, economy, character, discovery-dialogue and ship-resale experiments, plus further town-NPC dialogue changes. The **Jepara capital duel warning** and **Onim exclusive-goods dialogue** passed targeted gameplay checks; the full 100-port and full-game regression remain outstanding.
 
-- **Recommended:** [Test56q ROM-free Easy Offline Upgrader ZIP](releases/UWNH_Test56q_Easy_Offline_Upgrader_ROM_FREE_2026-11-19.zip)
-- **Alternative for experienced patchers:** [Test56q cumulative IPS](patches/test56q-clean-us/UWNH_Test56q_CUMULATIVE_from_Clean_US_ROM_2026-11-19.ips)
+- **Recommended:** [Test56q ROM-free Easy Offline Upgrader ZIP](releases/UWNH_Overhaul_Test56q_Easy_Upgrader.zip)
+- **Alternative for experienced patchers:** [Test56q cumulative IPS](patches/test56q-clean-us/UWNH_Overhaul_Test56q.ips)
 - **Instructions:** [Test56q offline upgrade guide](docs/test56q-easy-offline-upgrader.md) · [illustrated WordPress guide](https://cheeken78.wordpress.com/uncharted-waters/test56q-installation-guide/)
 
 **Input:** clean, unmodified, headerless US ROM of 2,097,152 bytes, SHA-256 `64bc4707f422661a66618088887e2363a5f896ea683c58984fffd96dd21ab5f0`. **Output:** 4,194,304 bytes, SHA-256 `a8e72f2b9c8db2be7e6f5c10852cd0282cc13b0eea681cc450e398ebaa5aff9b`.
 
-The offline upgrader runs locally in a browser, verifies the game file and generates a new ROM without changing the original. It is not an editor. The IPS and upgrader are **alternatives**, not patches to be applied in sequence. The game ROM is never provided.
+The offline upgrader runs locally in a browser, verifies the game file and generates a new ROM without changing the original. It is not an editor. The IPS and upgrader are **alternatives**, not patches to be applied in sequence. The game ROM is never provided. **Compatibility:** the original Test56q filenames remain available alongside the UWNH Overhaul-branded filenames so earlier download links continue to work.
 
 ## Earlier release: Test54c (experimental)
 
