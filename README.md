@@ -1,6 +1,16 @@
 # UWNH Overhaul — Uncharted Waters: New Horizons
 
-**UWNH Overhaul** is Ken Chee (Realbrowncow)'s experimental modification of *Uncharted Waters: New Horizons* (USA SNES), accompanied by engineering notes, reproducible data layouts, implementation case studies and test reports. **UWNH Overhaul Studio** is the name of the associated editing application from the upcoming Beta 6.0; that editor is still under development.
+## Latest experimental editor — 23 November 2026
+
+**UWNH Overhaul Studio Beta 6.0 Rev AB** targets the authoritative **Test57b5d** mod ROM. It adds a unified 25-ship editor, a guarded seven-cannon editor, 120-navigator starting stats, limited-palette PNG portraits, trade and map controls, plus ROM/IPS export and a clean-US-ROM upgrade path. **Static tests passed; new controls are not fully gameplay-tested.** No game ROM is distributed.
+
+- [Beta 6.0 Rev AB ROM-free release guide](docs/overhaul-studio-beta60-revab-2026-11-23.md) — installation, ROM-free downloads, palette references, testing scope and credits.
+- [ROM-free Rev AB kit](releases/UWNH_Beta60_RevAB_Cannon_Editor_ROM_FREE_Developer_Kit_2026-11-23.zip) — includes the editor HTML and source/tests.
+- The [Test56q→Test57b5d delta IPS](patches/test57b5d-from-test56q/UWNH_Test57b5d_Jamaica_Algiers_PirateLackeyDialogue_ONLY_EXPERIMENTAL_2026-11-22.ips) is **not** for a clean original ROM; the editor handles the full clean-ROM upgrade.
+
+**Original all-ten-ship manual control by erich121:** SELECT during sea-battle commands toggles mates AUTO ON/OFF, A dismisses the notice. Complete custom campaigns and general story scripting are **not** supported.
+
+**UWNH Overhaul** is Ken Chee (Realbrowncow)'s experimental modification of *Uncharted Waters: New Horizons* (USA SNES), accompanied by engineering notes, reproducible data layouts, implementation case studies and test reports. **UWNH Overhaul Studio** is the name of the associated editing application now offered as experimental Beta 6.0 Rev AB; its gameplay testing is ongoing.
 
 **Historical documentation snapshot (16 November 2026):** At that time the latest integrated and observed-to-boot branch was **Test54c**, a 4,194,304-byte headerless experimental ROM with SHA-256 `924ee53c49d125aa0cd23059d9bbfec42ede83cda50c36f6235431bb0db63a01`. It inherits Test53's Rimbo/Asmira portraits and walking sprites, Test54a's three shipyard illustrations, and Test54b's revised shipyard descriptions. Test54c's full Rimbo biography and short introduction were checked in-game. The `~Ernst~` biography heading remains an acknowledged defect. Complete campaign and ordinary-save regression are **not** implied by these narrow checks.
 
